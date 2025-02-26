@@ -447,11 +447,11 @@
           "settings": {
             "collection_group_title": "Prints",
             "collection_list": [
+              "pastel-bunnies-small-ribbed",
+              "bunnies-small-ribbed",
               "morning-meadow-small-ribbed",
               "lawn-mowers-small-ribbed",
-              "ducks-daisies",
-              "chickens-small-ribbed",
-              "be-mine-gingham-small-ribbed"
+              "ducks-daisies"
             ]
           }
         },
@@ -460,11 +460,11 @@
           "settings": {
             "collection_group_title": "Solids & Stripes",
             "collection_list": [
+              "lavender-small-stripe-ribbed",
               "pinecone-small-ribbed",
               "mauve-small-ribbed",
               "coastal-blue-small-ribbed",
-              "dusty-sage",
-              "pine-green-big-stripe"
+              "dusty-sage"
             ]
           }
         }
