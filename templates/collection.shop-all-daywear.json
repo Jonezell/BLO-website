@@ -55,6 +55,13 @@
             "linkurl": "shopify://collections/flutter-sleeve-rompers"
           }
         },
+        "link_CTw7ir": {
+          "type": "link",
+          "settings": {
+            "text": "Ruffle Rompers",
+            "linkurl": "shopify://collections/ruffle-rompers"
+          }
+        },
         "link_PL8BaE": {
           "type": "link",
           "settings": {
@@ -76,6 +83,7 @@
         "link_Vpf4Rh",
         "link_X6btXJ",
         "link_iYnxaU",
+        "link_CTw7ir",
         "link_PL8BaE",
         "link_CQ9n4K"
       ],
