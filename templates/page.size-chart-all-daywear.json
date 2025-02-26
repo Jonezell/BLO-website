@@ -126,6 +126,16 @@
         "padding_bottom": 100
       }
     },
+    "page_6WHATD": {
+      "type": "page",
+      "settings": {
+        "page": "size-chart-ruffle-romper",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
     "page_rYXTNA": {
       "type": "page",
       "disabled": true,
@@ -226,6 +236,7 @@
     "page_zjxhkM",
     "page_jwkMGb",
     "page_QYxG7H",
+    "page_6WHATD",
     "page_rYXTNA",
     "page_hhYq3K",
     "page_x8UPqW",
