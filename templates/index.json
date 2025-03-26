@@ -447,11 +447,11 @@
           "settings": {
             "collection_group_title": "Prints",
             "collection_list": [
+              "gone-fishing-small-ribbed",
               "whimsical-floral-small-ribbed",
               "backyard-garden-small-ribbed",
               "butterflies-small-ribbed",
-              "sandcastles-small-ribbed",
-              "surf-shack"
+              "sandcastles-small-ribbed"
             ]
           }
         },
@@ -460,11 +460,11 @@
           "settings": {
             "collection_group_title": "Solids & Stripes",
             "collection_list": [
+              "poolside-blue-small-ribbed",
               "lemon-yellow-small-ribbed",
               "teal-small-ribbed",
               "coral-small-ribbed",
-              "lavender-small-stripe-ribbed",
-              "pinecone-small-ribbed"
+              "lavender-small-stripe-ribbed"
             ]
           }
         }
