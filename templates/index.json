@@ -447,11 +447,11 @@
           "settings": {
             "collection_group_title": "Prints",
             "collection_list": [
+              "checkered-seashells-small-ribbed",
               "strawberries-small-ribbed",
               "summer-blooms-small-ribbed",
               "coral-gingham",
-              "gone-fishing-small-ribbed",
-              "whimsical-floral-small-ribbed"
+              "gone-fishing-small-ribbed"
             ]
           }
         },
@@ -460,11 +460,11 @@
           "settings": {
             "collection_group_title": "Solids & Stripes",
             "collection_list": [
+              "bubblegum-pink-small-ribbed",
               "poolside-blue-small-ribbed",
               "lemon-yellow-small-ribbed",
               "teal-small-ribbed",
-              "coral-small-ribbed",
-              "lavender-small-stripe-ribbed"
+              "coral-small-ribbed"
             ]
           }
         }
