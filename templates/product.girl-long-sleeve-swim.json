@@ -1,0 +1,324 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "judge_me_reviews_preview_badge_pg4eqY": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "produdct_as_variants_CXULYg": {
+          "type": "produdct-as-variants",
+          "settings": {
+            "label": "Style",
+            "style": "image",
+            "target_collection": "rash-guards",
+            "swatch_offset_Y": 50,
+            "swatch_offset_X": 50,
+            "hide_sold_out": true
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "custom_low_stock_JTRiRj": {
+          "type": "custom-low-stock",
+          "settings": {
+            "inventory_threshold": 10,
+            "show_inventory_quantity": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "back_in_stock_customer_alerts_app_block_UBNLgM": {
+          "type": "shopify://apps/amp-back-in-stock/blocks/app-block/bfa6a8c4-24e2-411a-9396-e35031b33f34",
+          "settings": {
+            "caption": "Email when available",
+            "font_size": 16,
+            "color": "#ffffff",
+            "background_color": "#000000",
+            "margin_top": 10,
+            "margin_bottom": 10,
+            "classes": "button button--full-width",
+            "style": "text-decoration:none"
+          }
+        },
+        "blo_restock_note_mE6Xzy": {
+          "type": "blo-restock-note",
+          "settings": {
+            "header": "Restocking",
+            "text": "",
+            "hide-payment-plan": true
+          }
+        },
+        "blo_payment_plans_BXirh9": {
+          "type": "blo-payment-plans",
+          "settings": {
+            "text": "Or, split your purchase into multiple small interest-free payments with"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Sizing",
+            "icon": "ruler",
+            "content": "",
+            "page": "size-chart-ruffle-sleeves-one-piece"
+          }
+        },
+        "collapsible-row-3": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Care Instructions",
+            "icon": "washing",
+            "content": "<p><strong>How do I care for bamboo?</strong></p><p><em><strong>Step One: </strong></em><br/>Turn the garment inside out before washing and drying.<br/></p><p><em><strong>Step Two: </strong></em><br/>Wash in cold water on the normal or quick cycle. We do not recommend washing on delicate since it makes products sit in water for too long.<br/></p><p><em><strong>Step Three: </strong></em><strong><br/></strong>Dry on the normal heat setting.</p>",
+            "page": ""
+          }
+        },
+        "complementary_x4W88A": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Pairs well with",
+            "make_collapsible_row": true,
+            "icon": "price_tag",
+            "product_list_limit": 10,
+            "products_per_page": 3,
+            "pagination_style": "counter",
+            "image_ratio": "square",
+            "enable_quick_add": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "judge_me_reviews_preview_badge_pg4eqY",
+        "variant_picker",
+        "produdct_as_variants_CXULYg",
+        "quantity_selector",
+        "custom_low_stock_JTRiRj",
+        "buy_buttons",
+        "back_in_stock_customer_alerts_app_block_UBNLgM",
+        "blo_restock_note_mE6Xzy",
+        "blo_payment_plans_BXirh9",
+        "description",
+        "collapsible-row-0",
+        "collapsible-row-3",
+        "complementary_x4W88A",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-0a96d3c7-0428-4e18-8f79-e08323d362b2",
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "hover",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 100
+      }
+    },
+    "172791928687cb93f7": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_w8Ua44": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_w8Ua44"
+      ],
+      "custom_css": [],
+      "settings": {
+        "include_margins": false
+      }
+    },
+    "blo_product_callouts_qHXD4R": {
+      "type": "blo-product-callouts",
+      "blocks": {
+        "callout_7fV3cD": {
+          "type": "Callout",
+          "settings": {
+            "pin_direction": "top_right",
+            "block_title": "Tagless Label",
+            "block_text": "Typical neck tags are often rough and itchy; our tagless labels protect your kiddos' sensitive skin from getting irritated.",
+            "horizontal_position": 56,
+            "vertical_position": 8
+          }
+        },
+        "callout_BxjKGh": {
+          "type": "Callout",
+          "settings": {
+            "pin_direction": "top_right",
+            "block_title": "UPF 50+ With UV Protection",
+            "block_text": "Our Rash Guards provide the ultimate sun protection; UPF 50 blocks about 99% of the sun’s UVA and UVB harmful rays.",
+            "horizontal_position": 6,
+            "vertical_position": 28
+          }
+        },
+        "callout_VbdxCC": {
+          "type": "Callout",
+          "settings": {
+            "pin_direction": "top_left",
+            "block_title": "Long Sleeves",
+            "block_text": "Full coverage from the sun that lasts all day.",
+            "horizontal_position": 4,
+            "vertical_position": 52
+          }
+        },
+        "callout_Mx8gzt": {
+          "type": "Callout",
+          "settings": {
+            "pin_direction": "top_right",
+            "block_title": "Soft & Stretchy",
+            "block_text": "Dress your littles easily while keeping them super comfy.",
+            "horizontal_position": 8,
+            "vertical_position": 72
+          }
+        },
+        "callout_6tXUdm": {
+          "type": "Callout",
+          "settings": {
+            "pin_direction": "top_right",
+            "block_title": "Quick Drying",
+            "block_text": "Beach or pool? No problem, that's what they're made for.",
+            "horizontal_position": 14,
+            "vertical_position": 92
+          }
+        }
+      },
+      "block_order": [
+        "callout_7fV3cD",
+        "callout_BxjKGh",
+        "callout_VbdxCC",
+        "callout_Mx8gzt",
+        "callout_6tXUdm"
+      ],
+      "settings": {
+        "title": "Fun in the sun without the worry.",
+        "text": "Our Rash Guards keep your little ones covered from the sun and are comfy for those long summer days.",
+        "image": "shopify://shop_images/RashGuard_484a9cef-8f40-492e-8dc5-b0b94c77d1ce.jpg",
+        "padding_top": 200,
+        "padding_bottom": 100
+      }
+    },
+    "blo_faq_7gVA7y": {
+      "type": "blo-faq",
+      "blocks": {
+        "collapsible_tab_D3dTnA": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "{{ shop.metaobjects.featured_faqs.shipping.title.value }}",
+            "icon": "truck",
+            "content": "{{ shop.metaobjects.featured_faqs.shipping.text | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "collapsible_tab_CYJxHw": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "{{ shop.metaobjects.featured_faqs.returns.title.value }}",
+            "icon": "return",
+            "content": "{{ shop.metaobjects.featured_faqs.returns.text | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "collapsible_tab_pmXUGa": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "{{ shop.metaobjects.featured_faqs[\"package-protection\"].title.value }}",
+            "icon": "box",
+            "content": "{{ shop.metaobjects.featured_faqs[\"package-protection\"].text | metafield_tag }}",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_D3dTnA",
+        "collapsible_tab_CYJxHw",
+        "collapsible_tab_pmXUGa"
+      ],
+      "settings": {
+        "background_color": "#fcfcf9",
+        "mainHeading": "Have A Question? We Have The Answer.",
+        "mainText": "",
+        "layout": "image_first",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "columns_mobile": "1",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "main",
+    "172791928687cb93f7",
+    "blo_product_callouts_qHXD4R",
+    "blo_faq_7gVA7y",
+    "related-products"
+  ]
+}
