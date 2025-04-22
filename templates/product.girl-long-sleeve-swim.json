@@ -184,6 +184,16 @@
     "blo_product_callouts_qHXD4R": {
       "type": "blo-product-callouts",
       "blocks": {
+        "callout_VbdxCC": {
+          "type": "Callout",
+          "settings": {
+            "pin_direction": "top_left",
+            "block_title": "Back Zipper",
+            "block_text": "Easy on, easy off. Get the sleeve without the hassle.",
+            "horizontal_position": 54,
+            "vertical_position": 8
+          }
+        },
         "callout_7fV3cD": {
           "type": "Callout",
           "settings": {
@@ -191,37 +201,17 @@
             "block_title": "Tagless Label",
             "block_text": "Typical neck tags are often rough and itchy; our tagless labels protect your kiddos' sensitive skin from getting irritated.",
             "horizontal_position": 56,
-            "vertical_position": 8
+            "vertical_position": 14
           }
         },
         "callout_BxjKGh": {
           "type": "Callout",
           "settings": {
-            "pin_direction": "top_right",
+            "pin_direction": "top_left",
             "block_title": "UPF 50+ & UV Protection",
             "block_text": "Blocks 99% of UV rays. Pair it with your favorite sunscreen for the most relaxed summer play.",
-            "horizontal_position": 6,
-            "vertical_position": 28
-          }
-        },
-        "callout_VbdxCC": {
-          "type": "Callout",
-          "settings": {
-            "pin_direction": "top_left",
-            "block_title": "Long Sleeves",
-            "block_text": "Full coverage from the sun that lasts all day.",
-            "horizontal_position": 4,
-            "vertical_position": 52
-          }
-        },
-        "callout_Mx8gzt": {
-          "type": "Callout",
-          "settings": {
-            "pin_direction": "top_right",
-            "block_title": "2. Bottom Snaps",
-            "block_text": "We make diaper changes a breeze, and our swim is no different. Bottom snaps up to size 18-24M.",
-            "horizontal_position": 8,
-            "vertical_position": 72
+            "horizontal_position": 38,
+            "vertical_position": 38
           }
         },
         "callout_6tXUdm": {
@@ -229,18 +219,28 @@
           "settings": {
             "pin_direction": "top_right",
             "block_title": "Quick Drying",
-            "block_text": "Beach or pool? No problem, that's what they're made for.",
-            "horizontal_position": 14,
+            "block_text": "It’s easier for you and comfier for them. Dry off in no time with our quick-dry material. Did we mention it’s super soft, too?",
+            "horizontal_position": 32,
+            "vertical_position": 60
+          }
+        },
+        "callout_Mx8gzt": {
+          "type": "Callout",
+          "settings": {
+            "pin_direction": "top_right",
+            "block_title": "Bottom Snaps",
+            "block_text": "We make diaper changes a breeze, and our swim is no different. Bottom snaps up to size 18-24M.",
+            "horizontal_position": 58,
             "vertical_position": 92
           }
         }
       },
       "block_order": [
+        "callout_VbdxCC",
         "callout_7fV3cD",
         "callout_BxjKGh",
-        "callout_VbdxCC",
-        "callout_Mx8gzt",
-        "callout_6tXUdm"
+        "callout_6tXUdm",
+        "callout_Mx8gzt"
       ],
       "settings": {
         "title": "Fun in the sun without the worry.",
