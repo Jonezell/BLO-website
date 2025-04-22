@@ -198,8 +198,8 @@
           "type": "Callout",
           "settings": {
             "pin_direction": "top_right",
-            "block_title": "UPF 50+ With UV Protection",
-            "block_text": "Our Rash Guards provide the ultimate sun protection; UPF 50 blocks about 99% of the sun’s UVA and UVB harmful rays.",
+            "block_title": "UPF 50+ & UV Protection",
+            "block_text": "Blocks 99% of UV rays. Pair it with your favorite sunscreen for the most relaxed summer play.",
             "horizontal_position": 6,
             "vertical_position": 28
           }
@@ -218,8 +218,8 @@
           "type": "Callout",
           "settings": {
             "pin_direction": "top_right",
-            "block_title": "Soft & Stretchy",
-            "block_text": "Dress your littles easily while keeping them super comfy.",
+            "block_title": "2. Bottom Snaps",
+            "block_text": "We make diaper changes a breeze, and our swim is no different. Bottom snaps up to size 18-24M.",
             "horizontal_position": 8,
             "vertical_position": 72
           }
