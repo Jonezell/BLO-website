@@ -107,7 +107,7 @@
     "page_zjxhkM": {
       "type": "page",
       "settings": {
-        "page": "size-chart-shirts-tanks",
+        "page": "size-chart-rash-guards",
         "heading_size": "h2",
         "color_scheme": "",
         "padding_top": 0,
@@ -117,7 +117,7 @@
     "page_jwkMGb": {
       "type": "page",
       "settings": {
-        "page": "size-chart-dresses",
+        "page": "size-chart-swim-trunks",
         "heading_size": "h2",
         "color_scheme": "",
         "padding_top": 0,
@@ -127,7 +127,7 @@
     "page_QYxG7H": {
       "type": "page",
       "settings": {
-        "page": "size-chart-flutter-sleeve-romper",
+        "page": "size-chart-long-sleeve-one-piece-rash-guard",
         "heading_size": "h2",
         "color_scheme": "",
         "padding_top": 0,
@@ -137,102 +137,7 @@
     "page_6WHATD": {
       "type": "page",
       "settings": {
-        "page": "size-chart-ruffle-romper",
-        "heading_size": "h2",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 100
-      }
-    },
-    "page_rYXTNA": {
-      "type": "page",
-      "disabled": true,
-      "settings": {
-        "page": "size-chart-swim-trunks",
-        "heading_size": "h2",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 100
-      }
-    },
-    "page_hhYq3K": {
-      "type": "page",
-      "disabled": true,
-      "settings": {
-        "page": "size-chart-rash-guards",
-        "heading_size": "h2",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "page_x8UPqW": {
-      "type": "page",
-      "disabled": true,
-      "settings": {
-        "page": "size-chart-pullovers",
-        "heading_size": "h2",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 100
-      }
-    },
-    "page_rcDRDX": {
-      "type": "page",
-      "settings": {
-        "page": "size-chart-fleece-hoodies",
-        "heading_size": "h2",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 100
-      }
-    },
-    "page_n6z3wz": {
-      "type": "page",
-      "disabled": true,
-      "settings": {
-        "page": "copy-of-size-chart-joggers",
-        "heading_size": "h2",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 100
-      }
-    },
-    "page_rrkXfF": {
-      "type": "page",
-      "disabled": true,
-      "settings": {
-        "page": "size-chart-puffer-jackets",
-        "heading_size": "h2",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 100
-      }
-    },
-    "page_jPkrnh": {
-      "type": "page",
-      "settings": {
-        "page": "size-chart-harem-rompers",
-        "heading_size": "h2",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 100
-      }
-    },
-    "page_3nc37i": {
-      "type": "page",
-      "settings": {
-        "page": "size-chart-briefs",
-        "heading_size": "h2",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 100
-      }
-    },
-    "page_jzYiGd": {
-      "type": "page",
-      "settings": {
-        "page": "size-chart-girl-underwear",
+        "page": "size-chart-ruffle-sleeves-one-piece",
         "heading_size": "h2",
         "color_scheme": "",
         "padding_top": 0,
@@ -247,15 +152,6 @@
     "page_zjxhkM",
     "page_jwkMGb",
     "page_QYxG7H",
-    "page_6WHATD",
-    "page_rYXTNA",
-    "page_hhYq3K",
-    "page_x8UPqW",
-    "page_rcDRDX",
-    "page_n6z3wz",
-    "page_rrkXfF",
-    "page_jPkrnh",
-    "page_3nc37i",
-    "page_jzYiGd"
+    "page_6WHATD"
   ]
 }
