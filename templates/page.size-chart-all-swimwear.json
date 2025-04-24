@@ -64,6 +64,13 @@
             "linkurl": "shopify://pages/size-charts-all-daywear"
           }
         },
+        "link_8YfbgL": {
+          "type": "link",
+          "settings": {
+            "text": "Swimwear",
+            "linkurl": "shopify://pages/size-charts-swimwear"
+          }
+        },
         "link_jQ9xUj": {
           "type": "link",
           "settings": {
@@ -90,6 +97,7 @@
         "link_KRr4Fj",
         "link_W3iFQ4",
         "link_H3ihU7",
+        "link_8YfbgL",
         "link_jQ9xUj",
         "link_pfyUCQ",
         "link_4fAxHy"
