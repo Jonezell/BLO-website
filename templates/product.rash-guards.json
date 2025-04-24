@@ -34,7 +34,7 @@
         "produdct_as_variants_CXULYg": {
           "type": "produdct-as-variants",
           "settings": {
-            "label": "Style",
+            "label": "Color",
             "style": "image",
             "target_collection": "rash-guards",
             "swatch_offset_Y": 50,
