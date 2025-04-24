@@ -1,0 +1,237 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "judge_me_reviews_preview_badge_pg4eqY": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "produdct_as_variants_CXULYg": {
+          "type": "produdct-as-variants",
+          "settings": {
+            "label": "Style",
+            "style": "image",
+            "target_collection": "trucker-hats",
+            "swatch_offset_Y": 50,
+            "swatch_offset_X": 50,
+            "hide_sold_out": true
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "custom_low_stock_JTRiRj": {
+          "type": "custom-low-stock",
+          "settings": {
+            "inventory_threshold": 10,
+            "show_inventory_quantity": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "back_in_stock_customer_alerts_app_block_UBNLgM": {
+          "type": "shopify://apps/amp-back-in-stock/blocks/app-block/bfa6a8c4-24e2-411a-9396-e35031b33f34",
+          "settings": {
+            "caption": "Email when available",
+            "font_size": 16,
+            "color": "#ffffff",
+            "background_color": "#000000",
+            "margin_top": 10,
+            "margin_bottom": 10,
+            "classes": "button button--full-width",
+            "style": "text-decoration:none"
+          }
+        },
+        "blo_restock_note_mE6Xzy": {
+          "type": "blo-restock-note",
+          "settings": {
+            "header": "Restocking",
+            "text": "",
+            "hide-payment-plan": true
+          }
+        },
+        "blo_payment_plans_BXirh9": {
+          "type": "blo-payment-plans",
+          "settings": {
+            "text": "Or, split your purchase into multiple small interest-free payments with"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "collapsible-row-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Care Instructions",
+            "icon": "washing",
+            "content": "<p>Hand Wash / Spot Clean Only.</p>",
+            "page": ""
+          }
+        },
+        "complementary_zyKmXc": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Pairs well with",
+            "make_collapsible_row": true,
+            "icon": "price_tag",
+            "product_list_limit": 10,
+            "products_per_page": 3,
+            "pagination_style": "counter",
+            "image_ratio": "square",
+            "enable_quick_add": true
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "judge_me_reviews_preview_badge_pg4eqY",
+        "variant_picker",
+        "produdct_as_variants_CXULYg",
+        "quantity_selector",
+        "custom_low_stock_JTRiRj",
+        "buy_buttons",
+        "back_in_stock_customer_alerts_app_block_UBNLgM",
+        "blo_restock_note_mE6Xzy",
+        "blo_payment_plans_BXirh9",
+        "description",
+        "collapsible-row-3",
+        "complementary_zyKmXc"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-0a96d3c7-0428-4e18-8f79-e08323d362b2",
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "hover",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 100
+      }
+    },
+    "172791928687cb93f7": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_w8Ua44": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_w8Ua44"
+      ],
+      "custom_css": [
+        "section {background-color: var(--blo-terra);}"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    },
+    "blo_faq_7gVA7y": {
+      "type": "blo-faq",
+      "blocks": {
+        "collapsible_tab_D3dTnA": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "{{ shop.metaobjects.featured_faqs.shipping.title.value }}",
+            "icon": "truck",
+            "content": "{{ shop.metaobjects.featured_faqs.shipping.text | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "collapsible_tab_CYJxHw": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "{{ shop.metaobjects.featured_faqs.returns.title.value }}",
+            "icon": "return",
+            "content": "{{ shop.metaobjects.featured_faqs.returns.text | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "collapsible_tab_pmXUGa": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "{{ shop.metaobjects.featured_faqs[\"package-protection\"].title.value }}",
+            "icon": "box",
+            "content": "{{ shop.metaobjects.featured_faqs[\"package-protection\"].text | metafield_tag }}",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_D3dTnA",
+        "collapsible_tab_CYJxHw",
+        "collapsible_tab_pmXUGa"
+      ],
+      "settings": {
+        "background_color": "#fcfcf9",
+        "mainHeading": "Have A Question? We Have The Answer.",
+        "mainText": "",
+        "layout": "image_first",
+        "padding_top": 200,
+        "padding_bottom": 100
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "columns_mobile": "1",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "main",
+    "172791928687cb93f7",
+    "blo_faq_7gVA7y",
+    "related-products"
+  ]
+}
