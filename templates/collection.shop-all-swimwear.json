@@ -1,0 +1,110 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1"
+      }
+    },
+    "blo_collection_pills_ytP4Gk": {
+      "type": "blo-collection-pills",
+      "blocks": {
+        "link_mf33wC": {
+          "type": "link",
+          "settings": {
+            "text": "All",
+            "linkurl": "shopify://collections/daywear"
+          }
+        },
+        "link_Ar3png": {
+          "type": "link",
+          "settings": {
+            "text": "Shirts",
+            "linkurl": "shopify://collections/shirts"
+          }
+        },
+        "link_Vpf4Rh": {
+          "type": "link",
+          "settings": {
+            "text": "Harem Rompers",
+            "linkurl": "shopify://collections/harem-rompers"
+          }
+        },
+        "link_X6btXJ": {
+          "type": "link",
+          "settings": {
+            "text": "Pocket Dresses",
+            "linkurl": "shopify://collections/pocket-dresses"
+          }
+        },
+        "link_iYnxaU": {
+          "type": "link",
+          "settings": {
+            "text": "Flutter Sleeve Rompers",
+            "linkurl": "shopify://collections/flutter-sleeve-rompers"
+          }
+        },
+        "link_CTw7ir": {
+          "type": "link",
+          "settings": {
+            "text": "Ruffle Rompers",
+            "linkurl": "shopify://collections/ruffle-rompers"
+          }
+        },
+        "link_CQ9n4K": {
+          "type": "link",
+          "settings": {
+            "text": "Briefs & Underwear",
+            "linkurl": "shopify://collections/briefs-underwear"
+          }
+        }
+      },
+      "block_order": [
+        "link_mf33wC",
+        "link_Ar3png",
+        "link_Vpf4Rh",
+        "link_X6btXJ",
+        "link_iYnxaU",
+        "link_CTw7ir",
+        "link_CQ9n4K"
+      ],
+      "settings": {}
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "standard",
+        "enable_filtering": true,
+        "filter_type": "vertical",
+        "enable_sorting": true,
+        "columns_mobile": "1",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "blo_collection_pills_ytP4Gk",
+    "product-grid"
+  ]
+}
