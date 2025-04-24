@@ -1,0 +1,253 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "rich_text_bX74kW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eabTjU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Size Charts",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eabTjU"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "blo_collection_pills_7fVGdq": {
+      "type": "blo-collection-pills",
+      "blocks": {
+        "link_KRr4Fj": {
+          "type": "link",
+          "settings": {
+            "text": "All",
+            "linkurl": "shopify://pages/size-chart"
+          }
+        },
+        "link_W3iFQ4": {
+          "type": "link",
+          "settings": {
+            "text": "PJs",
+            "linkurl": "shopify://pages/size-charts-all-pjs"
+          }
+        },
+        "link_H3ihU7": {
+          "type": "link",
+          "settings": {
+            "text": "Daywear",
+            "linkurl": "shopify://pages/size-charts-all-daywear"
+          }
+        },
+        "link_jQ9xUj": {
+          "type": "link",
+          "settings": {
+            "text": "Women's",
+            "linkurl": "shopify://pages/size-charts-all-womens"
+          }
+        },
+        "link_pfyUCQ": {
+          "type": "link",
+          "settings": {
+            "text": "Men's",
+            "linkurl": "shopify://pages/size-charts-all-mens"
+          }
+        },
+        "link_4fAxHy": {
+          "type": "link",
+          "settings": {
+            "text": "Sleep Sacks",
+            "linkurl": "shopify://pages/size-chart-sleep-sacks"
+          }
+        }
+      },
+      "block_order": [
+        "link_KRr4Fj",
+        "link_W3iFQ4",
+        "link_H3ihU7",
+        "link_jQ9xUj",
+        "link_pfyUCQ",
+        "link_4fAxHy"
+      ],
+      "settings": {}
+    },
+    "page_zjxhkM": {
+      "type": "page",
+      "settings": {
+        "page": "size-chart-shirts-tanks",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "page_jwkMGb": {
+      "type": "page",
+      "settings": {
+        "page": "size-chart-dresses",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "page_QYxG7H": {
+      "type": "page",
+      "settings": {
+        "page": "size-chart-flutter-sleeve-romper",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "page_6WHATD": {
+      "type": "page",
+      "settings": {
+        "page": "size-chart-ruffle-romper",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "page_rYXTNA": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "page": "size-chart-swim-trunks",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "page_hhYq3K": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "page": "size-chart-rash-guards",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "page_x8UPqW": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "page": "size-chart-pullovers",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "page_rcDRDX": {
+      "type": "page",
+      "settings": {
+        "page": "size-chart-fleece-hoodies",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "page_n6z3wz": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "page": "copy-of-size-chart-joggers",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "page_rrkXfF": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "page": "size-chart-puffer-jackets",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "page_jPkrnh": {
+      "type": "page",
+      "settings": {
+        "page": "size-chart-harem-rompers",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "page_3nc37i": {
+      "type": "page",
+      "settings": {
+        "page": "size-chart-briefs",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "page_jzYiGd": {
+      "type": "page",
+      "settings": {
+        "page": "size-chart-girl-underwear",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_bX74kW",
+    "blo_collection_pills_7fVGdq",
+    "page_zjxhkM",
+    "page_jwkMGb",
+    "page_QYxG7H",
+    "page_6WHATD",
+    "page_rYXTNA",
+    "page_hhYq3K",
+    "page_x8UPqW",
+    "page_rcDRDX",
+    "page_n6z3wz",
+    "page_rrkXfF",
+    "page_jPkrnh",
+    "page_3nc37i",
+    "page_jzYiGd"
+  ]
+}
