@@ -24,49 +24,35 @@
           "type": "link",
           "settings": {
             "text": "All",
-            "linkurl": "shopify://collections/daywear"
+            "linkurl": "shopify://collections/swimwear"
           }
         },
         "link_Ar3png": {
           "type": "link",
           "settings": {
-            "text": "Shirts",
-            "linkurl": "shopify://collections/shirts"
+            "text": "Rash Guards",
+            "linkurl": "shopify://collections/rash-guards"
           }
         },
         "link_Vpf4Rh": {
           "type": "link",
           "settings": {
-            "text": "Harem Rompers",
-            "linkurl": "shopify://collections/harem-rompers"
+            "text": "Swim Trunks",
+            "linkurl": "shopify://collections/swim-trunks"
           }
         },
         "link_X6btXJ": {
           "type": "link",
           "settings": {
-            "text": "Pocket Dresses",
-            "linkurl": "shopify://collections/pocket-dresses"
+            "text": "Long Sleeve One-Piece Rash Guards",
+            "linkurl": "shopify://collections/long-sleeve-one-piece-rash-guards"
           }
         },
         "link_iYnxaU": {
           "type": "link",
           "settings": {
-            "text": "Flutter Sleeve Rompers",
-            "linkurl": "shopify://collections/flutter-sleeve-rompers"
-          }
-        },
-        "link_CTw7ir": {
-          "type": "link",
-          "settings": {
-            "text": "Ruffle Rompers",
-            "linkurl": "shopify://collections/ruffle-rompers"
-          }
-        },
-        "link_CQ9n4K": {
-          "type": "link",
-          "settings": {
-            "text": "Briefs & Underwear",
-            "linkurl": "shopify://collections/briefs-underwear"
+            "text": "Ruffle Sleeves One Pieces",
+            "linkurl": "shopify://collections/ruffle-sleeves-one-pieces"
           }
         }
       },
@@ -75,9 +61,7 @@
         "link_Ar3png",
         "link_Vpf4Rh",
         "link_X6btXJ",
-        "link_iYnxaU",
-        "link_CTw7ir",
-        "link_CQ9n4K"
+        "link_iYnxaU"
       ],
       "settings": {}
     },
