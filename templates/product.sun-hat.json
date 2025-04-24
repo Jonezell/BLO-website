@@ -34,9 +34,9 @@
         "produdct_as_variants_CXULYg": {
           "type": "produdct-as-variants",
           "settings": {
-            "label": "Style",
+            "label": "Color",
             "style": "image",
-            "target_collection": "trucker-hats",
+            "target_collection": "sun-hats",
             "swatch_offset_Y": 50,
             "swatch_offset_X": 50,
             "hide_sold_out": true
@@ -164,6 +164,76 @@
         "include_margins": false
       }
     },
+    "blo_product_callouts_HhKLdD": {
+      "type": "blo-product-callouts",
+      "blocks": {
+        "callout_EK7iUV": {
+          "type": "Callout",
+          "settings": {
+            "pin_direction": "top_right",
+            "block_title": "UPF 50+ & UV Protection",
+            "block_text": "Blocks 99% of UV rays so you can stay protected from the sun all summer long.",
+            "horizontal_position": 36,
+            "vertical_position": 6
+          }
+        },
+        "callout_iinEM4": {
+          "type": "Callout",
+          "settings": {
+            "pin_direction": "top_right",
+            "block_title": "Adjustable Width",
+            "block_text": "Get a custom fit that is perfect for your baby's head.",
+            "horizontal_position": 20,
+            "vertical_position": 20
+          }
+        },
+        "callout_tdCNrt": {
+          "type": "Callout",
+          "settings": {
+            "pin_direction": "top_left",
+            "block_title": "Quick Drying",
+            "block_text": "Heading in the water? No problem. Our Sun Hats dry quickly so you can use them again and again.",
+            "horizontal_position": 32,
+            "vertical_position": 36
+          }
+        },
+        "callout_yz4nJA": {
+          "type": "Callout",
+          "settings": {
+            "pin_direction": "top_right",
+            "block_title": "Wide Brim",
+            "block_text": "Say no to squinty eyes. We’ve got them covered…literally.",
+            "horizontal_position": 28,
+            "vertical_position": 50
+          }
+        },
+        "callout_Qz47Md": {
+          "type": "Callout",
+          "settings": {
+            "pin_direction": "top_right",
+            "block_title": "Adjustable Chin Strap",
+            "block_text": "Get a custom fit that works for your baby. And when they’re bigger, you can take the strap fully off with the removable side clips.",
+            "horizontal_position": 46,
+            "vertical_position": 80
+          }
+        }
+      },
+      "block_order": [
+        "callout_EK7iUV",
+        "callout_iinEM4",
+        "callout_tdCNrt",
+        "callout_yz4nJA",
+        "callout_Qz47Md"
+      ],
+      "name": "BLO: Product Callouts",
+      "settings": {
+        "title": "We’ve thought of it so you don’t have to.",
+        "text": "Discover the ultimate comfort with our perfectly crafted Sun Hats.",
+        "image": "shopify://shop_images/IMG_7299-2.jpg",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
     "blo_faq_7gVA7y": {
       "type": "blo-faq",
       "blocks": {
@@ -231,6 +301,7 @@
   "order": [
     "main",
     "172791928687cb93f7",
+    "blo_product_callouts_HhKLdD",
     "blo_faq_7gVA7y",
     "related-products"
   ]
