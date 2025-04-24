@@ -160,6 +160,7 @@
     },
     "page_x8UPqW": {
       "type": "page",
+      "disabled": true,
       "settings": {
         "page": "size-chart-pullovers",
         "heading_size": "h2",
@@ -180,6 +181,7 @@
     },
     "page_n6z3wz": {
       "type": "page",
+      "disabled": true,
       "settings": {
         "page": "copy-of-size-chart-joggers",
         "heading_size": "h2",
@@ -190,6 +192,7 @@
     },
     "page_rrkXfF": {
       "type": "page",
+      "disabled": true,
       "settings": {
         "page": "size-chart-puffer-jackets",
         "heading_size": "h2",
