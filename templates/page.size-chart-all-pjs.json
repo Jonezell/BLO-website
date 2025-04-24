@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -64,6 +64,13 @@
             "linkurl": "shopify://pages/size-charts-all-daywear"
           }
         },
+        "link_deWhAe": {
+          "type": "link",
+          "settings": {
+            "text": "Swimwear",
+            "linkurl": "shopify://pages/size-charts-swimwear"
+          }
+        },
         "link_x7WgiL": {
           "type": "link",
           "settings": {
@@ -90,12 +97,12 @@
         "link_RjDrGr",
         "link_Ga3zTE",
         "link_iLKGtW",
+        "link_deWhAe",
         "link_x7WgiL",
         "link_LpTYwA",
         "link_njzx6M"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "page_gWLbkc": {
       "type": "page",
