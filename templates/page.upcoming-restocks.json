@@ -24,7 +24,8 @@
         ".restock-image {flex: 1; width: 30%; max-width: 400px;}",
         ".restock-image img {width: 100%; height: auto; subject-fit: cover;}",
         ".restock-info {flex: 2;}",
-        ".restock-info .h3 {margin-top: 10px; margin-bottom: 10px;}"
+        ".restock-info .h3 {margin-top: 10px; margin-bottom: 10px;}",
+        "@media screen and (max-width: 992px) {.restock-item {flex-direction: column; }}"
       ],
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
