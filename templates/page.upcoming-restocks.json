@@ -23,7 +23,8 @@
         ".restock-item {display: flex; flex-direction: row; margin-bottom: 40px; align-items: flex-start; justify-items: center; gap: 20px;}",
         ".restock-image {flex: 1;}",
         ".restock-image img {width: 100%; height: auto; subject-fit: cover;}",
-        ".restock-info {flex: 2;}"
+        ".restock-info {flex: 2;}",
+        ".restock-info .h2 {margin-top: 10px; margin-bottom: 10px;}"
       ],
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
