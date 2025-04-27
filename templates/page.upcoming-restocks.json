@@ -15,9 +15,20 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
+    },
+    "custom_liquid_dT78cG": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "custom_liquid_dT78cG"
   ]
 }
