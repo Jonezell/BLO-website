@@ -22,7 +22,7 @@
         ".upcoming-restocks-wrapper {}",
         ".restock-item {display: flex; flex-direction: row; margin-bottom: 40px; align-items: flex-start; justify-items: center; gap: 20px;}",
         ".restock-image {flex: 1; width: 30%; max-width: 400px;}",
-        ".restock-image img {width: 100%; height: auto; subject-fit: cover; border-radius: var(--blo-border-radius);}",
+        ".restock-image img {width: 100%; height: auto; subject-fit: cover; border-radius: var(--blo-corner-radius);}",
         ".restock-info {flex: 2;}",
         ".restock-info .h3 {margin-top: 10px; margin-bottom: 10px;}",
         "@media screen and (max-width: 992px) {.restock-item {flex-direction: column; } .restock-image {width: 100%; }}"
