@@ -20,7 +20,7 @@
       "type": "custom-liquid",
       "custom_css": [
         ".upcoming-restocks-wrapper {}",
-        ".restock-item {display: flex; margin-bottom: 40px; align-items: flex-start; gap: 20px;}",
+        ".restock-item {display: flex; flex-direction: row; margin-bottom: 40px; align-items: flex-start; justify-items: center; gap: 20px;}",
         ".restock-image {flex: 1;}",
         ".restock-image img {width: 100%; height: auto; subject-fit: cover;}",
         ".restock-info {flex: 2;}"
