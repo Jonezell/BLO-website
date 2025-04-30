@@ -91,6 +91,15 @@
           "type": "description",
           "settings": {}
         },
+        "collapsible_tab_gJ9GwQ": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Size Chart",
+            "icon": "ruler",
+            "content": "",
+            "page": "size-chart-sun-hats"
+          }
+        },
         "collapsible-row-3": {
           "type": "collapsible_tab",
           "settings": {
@@ -112,15 +121,6 @@
             "image_ratio": "square",
             "enable_quick_add": true
           }
-        },
-        "collapsible_tab_gJ9GwQ": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "ruler",
-            "content": "",
-            "page": "size-chart-sun-hats"
-          }
         }
       },
       "block_order": [
@@ -136,9 +136,9 @@
         "blo_restock_note_mE6Xzy",
         "blo_payment_plans_BXirh9",
         "description",
+        "collapsible_tab_gJ9GwQ",
         "collapsible-row-3",
-        "complementary_zyKmXc",
-        "collapsible_tab_gJ9GwQ"
+        "complementary_zyKmXc"
       ],
       "settings": {
         "enable_sticky_info": true,
