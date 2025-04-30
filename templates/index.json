@@ -100,6 +100,52 @@
       "settings": {
         "media-type": "video",
         "show_side-gradient": true,
+        "video": "shopify://files/videos/blojunevid-517.mp4",
+        "background-color": "#f5f5f5",
+        "top-shape-color": "#98b5cc",
+        "bottom-shape-color": "#edb396",
+        "show-under-header": true
+      }
+    },
+    "blo_banner_6rVTGV": {
+      "type": "blo-banner",
+      "blocks": {
+        "stars_tMhUEQ": {
+          "type": "Stars",
+          "settings": {
+            "text": "{{ shop.metaobjects.website_content[\"review-count\"].content.value }} five-star Reviews!"
+          }
+        },
+        "heading_XTgXW8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Buttery Soft Bamboo Apparel For Day & Night"
+          }
+        },
+        "text_x64drV": {
+          "type": "text",
+          "settings": {
+            "text": "Our cozy pjs and daywear are kid and mom approved for every occasion. Morning, noon, or night, we've got you covered."
+          }
+        },
+        "buttons_fDEj9T": {
+          "type": "buttons",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/shop-all"
+          }
+        }
+      },
+      "block_order": [
+        "stars_tMhUEQ",
+        "heading_XTgXW8",
+        "text_x64drV",
+        "buttons_fDEj9T"
+      ],
+      "disabled": true,
+      "settings": {
+        "media-type": "video",
+        "show_side-gradient": true,
         "video": "shopify://files/videos/Untitled.mp4",
         "background-color": "#fdfdfd",
         "top-shape-color": "#98b5cc",
@@ -594,6 +640,7 @@
   "order": [
     "blo_banner_release_WUUPWU",
     "blo_banner_9z7Ute",
+    "blo_banner_6rVTGV",
     "blo_scrolling_benefits_afMweU",
     "blo_toggle_collections_bV6gT7",
     "blo_bamboo_comparison_eVAdR6",
