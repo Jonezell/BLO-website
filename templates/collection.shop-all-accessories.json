@@ -56,6 +56,20 @@
             "text": "Backpacks",
             "linkurl": "shopify://collections/backpacks"
           }
+        },
+        "link_fg6EEB": {
+          "type": "link",
+          "settings": {
+            "text": "Trucker Hats",
+            "linkurl": "shopify://collections/trucker-hats"
+          }
+        },
+        "link_fpBiNw": {
+          "type": "link",
+          "settings": {
+            "text": "Sun Hats",
+            "linkurl": "shopify://collections/sun-hats"
+          }
         }
       },
       "block_order": [
@@ -63,7 +77,9 @@
         "link_Ar3png",
         "link_X6btXJ",
         "link_PL8BaE",
-        "link_FxV6x8"
+        "link_FxV6x8",
+        "link_fg6EEB",
+        "link_fpBiNw"
       ],
       "settings": {}
     },
