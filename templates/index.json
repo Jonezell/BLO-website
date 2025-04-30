@@ -238,6 +238,19 @@
             ]
           }
         },
+        "collection_group_bz3a8M": {
+          "type": "collection_group",
+          "settings": {
+            "collection_group_title": "Swimwear",
+            "collection_list": [
+              "swim-trunks",
+              "rash-guards",
+              "long-sleeve-one-piece-rash-guards",
+              "ruffle-sleeves-one-pieces",
+              "swim-trunks-rash-guards"
+            ]
+          }
+        },
         "collection_group_wCa3DY": {
           "type": "collection_group",
           "settings": {
@@ -267,6 +280,7 @@
       "block_order": [
         "collection_group_MyfEw8",
         "collection_group_wxzkGi",
+        "collection_group_bz3a8M",
         "collection_group_wCa3DY",
         "collection_group_hY83DU"
       ],
