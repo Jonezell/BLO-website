@@ -112,6 +112,15 @@
             "image_ratio": "square",
             "enable_quick_add": true
           }
+        },
+        "collapsible_tab_gJ9GwQ": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "ruler",
+            "content": "",
+            "page": "size-chart-sun-hats"
+          }
         }
       },
       "block_order": [
@@ -128,7 +137,8 @@
         "blo_payment_plans_BXirh9",
         "description",
         "collapsible-row-3",
-        "complementary_zyKmXc"
+        "complementary_zyKmXc",
+        "collapsible_tab_gJ9GwQ"
       ],
       "settings": {
         "enable_sticky_info": true,
