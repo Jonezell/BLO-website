@@ -41,6 +41,13 @@
             "linkurl": "shopify://collections/daywear"
           }
         },
+        "link_76piBj": {
+          "type": "link",
+          "settings": {
+            "text": "Swimwear",
+            "linkurl": "shopify://collections/swim-trunks-rash-guards"
+          }
+        },
         "link_X6btXJ": {
           "type": "link",
           "settings": {
@@ -81,14 +88,14 @@
         "link_mf33wC",
         "link_Ar3png",
         "link_iYnxaU",
+        "link_76piBj",
         "link_X6btXJ",
         "link_FxV6x8",
         "link_YVprjC",
         "link_XzFhNP",
         "link_PL8BaE"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "product-grid": {
       "type": "main-collection-product-grid",
