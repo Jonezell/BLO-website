@@ -34,29 +34,6 @@
             "linkurl": "shopify://collections/bows"
           }
         },
-        "link_X6btXJ": {
-          "type": "link",
-          "disabled": true,
-          "settings": {
-            "text": "Socks",
-            "linkurl": "shopify://collections/socks"
-          }
-        },
-        "link_PL8BaE": {
-          "type": "link",
-          "settings": {
-            "text": "Swaddles",
-            "linkurl": "shopify://collections/swaddles"
-          }
-        },
-        "link_FxV6x8": {
-          "type": "link",
-          "disabled": true,
-          "settings": {
-            "text": "Backpacks",
-            "linkurl": "shopify://collections/backpacks"
-          }
-        },
         "link_fg6EEB": {
           "type": "link",
           "settings": {
@@ -70,16 +47,39 @@
             "text": "Sun Hats",
             "linkurl": "shopify://collections/sun-hats"
           }
+        },
+        "link_X6btXJ": {
+          "type": "link",
+          "disabled": true,
+          "settings": {
+            "text": "Socks",
+            "linkurl": "shopify://collections/socks"
+          }
+        },
+        "link_FxV6x8": {
+          "type": "link",
+          "disabled": true,
+          "settings": {
+            "text": "Backpacks",
+            "linkurl": "shopify://collections/backpacks"
+          }
+        },
+        "link_PL8BaE": {
+          "type": "link",
+          "settings": {
+            "text": "Swaddles",
+            "linkurl": "shopify://collections/swaddles"
+          }
         }
       },
       "block_order": [
         "link_mf33wC",
         "link_Ar3png",
-        "link_X6btXJ",
-        "link_PL8BaE",
-        "link_FxV6x8",
         "link_fg6EEB",
-        "link_fpBiNw"
+        "link_fpBiNw",
+        "link_X6btXJ",
+        "link_FxV6x8",
+        "link_PL8BaE"
       ],
       "settings": {}
     },
