@@ -54,6 +54,13 @@
             "text": "Ruffle Sleeves One Pieces",
             "linkurl": "shopify://collections/ruffle-sleeves-one-pieces"
           }
+        },
+        "link_hzkhPc": {
+          "type": "link",
+          "settings": {
+            "text": "Sun Hats",
+            "linkurl": "shopify://collections/sun-hats"
+          }
         }
       },
       "block_order": [
@@ -61,7 +68,8 @@
         "link_Ar3png",
         "link_Vpf4Rh",
         "link_X6btXJ",
-        "link_iYnxaU"
+        "link_iYnxaU",
+        "link_hzkhPc"
       ],
       "settings": {}
     },
