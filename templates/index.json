@@ -230,11 +230,11 @@
           "settings": {
             "collection_group_title": "Daywear",
             "collection_list": [
+              "shirts-tanks",
               "pocket-dresses",
               "flutter-sleeve-rompers",
               "ruffle-rompers",
-              "briefs-underwear",
-              "shirts-tanks"
+              "briefs-underwear"
             ]
           }
         },
