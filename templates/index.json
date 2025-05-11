@@ -394,7 +394,7 @@
       ],
       "settings": {
         "title": "Don’t Just Take Our Word For it.",
-        "subtitle": "Our 3,900 five star reviews speak for themselves!",
+        "subtitle": "Our {{ metaobjects.website_content[\"review-count\"].content.value }} five star reviews speak for themselves!",
         "padding_top": 200,
         "padding_bottom": 200
       }
