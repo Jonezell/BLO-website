@@ -64,6 +64,7 @@
         },
         "link_YVprjC": {
           "type": "link",
+          "disabled": true,
           "settings": {
             "text": "Men's",
             "linkurl": "shopify://collections/shop-all-mens"
