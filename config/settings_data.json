@@ -162,11 +162,6 @@
           "reverse_options": false
         }
       },
-      "11646226146262861653": {
-        "type": "shopify://apps/msl-store-locators/blocks/install-snippets/f3e7679d-2a7b-4c2c-8e91-6ba7b432967a",
-        "disabled": false,
-        "settings": {}
-      },
       "5674012996228588682": {
         "type": "shopify://apps/cartbot/blocks/cartbot-script-append/f7a44e3b-3901-4412-9d5a-3db0980a9db0",
         "disabled": false,
