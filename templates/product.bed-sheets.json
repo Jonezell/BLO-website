@@ -37,8 +37,8 @@
             "label": "Crib Sheets",
             "style": "swatch",
             "target_collection": "crib-sheets",
-            "swatch_offset_Y": 48,
-            "swatch_offset_X": 48,
+            "swatch_offset_Y": 60,
+            "swatch_offset_X": 40,
             "hide_sold_out": true
           }
         },
