@@ -98,7 +98,7 @@
         "buttons_ccThbN"
       ],
       "custom_css": [
-        "@media screen and (max-width: 600px) {.blo-banner-card-wrapper {margin-top: 0px; }}"
+        "@media screen and (max-width: 600px) {.blo-banner-card-wrapper {margin-top: 0px !important; }}"
       ],
       "settings": {
         "media-type": "video",
