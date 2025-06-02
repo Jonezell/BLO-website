@@ -97,9 +97,7 @@
         "text_kTQFjh",
         "buttons_ccThbN"
       ],
-      "custom_css": [
-        ".blo-banner-container {opacity: 0.3;}"
-      ],
+      "custom_css": [],
       "settings": {
         "media-type": "video",
         "show_side-gradient": true,
