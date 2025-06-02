@@ -186,7 +186,11 @@
 .blo-banner-buttons {
   --color-button: 194, 125, 76;
 }
-
+@media screen and (max-width: 500px) { 
+  .blo-banner-card-wrapper {
+    margin-top: 0px;
+  }
+}
 
 @media screen and (max-width: 989px) { 
   .blo-banner-image {
@@ -235,11 +239,7 @@
     }
   {% endif %}
 }
-@media screen and (max-width: 989px) { 
-  .blo-banner-card-wrapper {
-    margin-top: 0px;
-  }
-}
+
 
 
 @media screen and (min-width: 990px) { 
