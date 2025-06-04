@@ -43,6 +43,7 @@
         },
         "link_PL8BaE": {
           "type": "link",
+          "disabled": true,
           "settings": {
             "text": "Shorts Two-Piece Sets",
             "linkurl": "shopify://collections/shorts-two-piece-set"
