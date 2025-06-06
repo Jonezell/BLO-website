@@ -140,11 +140,6 @@
     },
     "content_for_index": [],
     "blocks": {
-      "17428600031447253342": {
-        "type": "shopify://apps/attentive/blocks/attn-tag/8df62c72-8fe4-407e-a5b3-72132be30a0d",
-        "disabled": false,
-        "settings": {}
-      },
       "10864971697205422121": {
         "type": "shopify://apps/gorgias-live-chat-helpdesk/blocks/gorgias/a66db725-7b96-4e3f-916e-6c8e6f87aaaa",
         "disabled": false,
@@ -203,6 +198,11 @@
         "settings": {
           "override_url": ""
         }
+      },
+      "17428600031447253342": {
+        "type": "shopify://apps/attentive/blocks/attn-tag/8df62c72-8fe4-407e-a5b3-72132be30a0d",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
