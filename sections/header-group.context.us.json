@@ -12,5 +12,18 @@
   "context": {
     "market": "us"
   },
-  "sections": {}
+  "sections": {
+    "announcement-bar": {
+      "settings": {},
+      "blocks": {
+        "announcement_zPQ3jf": {
+          "disabled": false,
+          "settings": {
+            "text": "Shop Grab Bags! Save up to 90% off!",
+            "link": "shopify://collections/grab-bag"
+          }
+        }
+      }
+    }
+  }
 }
