@@ -17,7 +17,7 @@
       "settings": {},
       "blocks": {
         "announcement_zPQ3jf": {
-          "disabled": false,
+          "disabled": true,
           "settings": {
             "text": "Shop Grab Bags! Save up to 90% off!",
             "link": "shopify://collections/grab-bag"
