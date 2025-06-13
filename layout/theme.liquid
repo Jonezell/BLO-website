@@ -13,6 +13,10 @@
     <link rel="manifest" href="{{ 'manifest.json' | asset_url }}">
     {% comment %} END CUSTOM CODE {% endcomment %}
 
+    {% comment %} CUSTOM CODE - TO ADD CUSTOM GOOGLE SEARCH RESULT ICON {% endcomment %}
+    <meta property="og:image" content="https://cdn.shopify.com/s/files/1/0964/6074/files/App-Icon.png?v=1729087488" />
+    {% comment %} END CUSTOM CODE {% endcomment %}
+
     {%- if settings.favicon != blank -%}
       <link rel="icon" type="image/png" href="{{ settings.favicon | image_url: width: 32, height: 32 }}">
     {%- endif -%}
