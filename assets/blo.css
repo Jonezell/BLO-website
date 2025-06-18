@@ -714,11 +714,10 @@ body .announcement-bar__message {
 .facets-container .facet-checkbox__text {
   color: var(--blo-pine);
 }
-.facets-container .facets__label.facet-checkbox {
-  align-items: center;
-}
-.facets-container .facets__label.facet-checkbox .svg-wrapper {
-  top: 18px;
+
+.facets-container .facets__label.facet-checkbox > svg,
+.facets-container .facets__label.facet-checkbox .svg-wrapper{
+  margin-top: 3px;
 }
 .facets-container .facets__label.facet-checkbox svg rect {
   stroke-width: 2px;
