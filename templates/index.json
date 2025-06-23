@@ -568,7 +568,7 @@
           "type": "buttons",
           "settings": {
             "button_label": "Learn More",
-            "button_link": "shopify://pages/help-us-give-back"
+            "button_link": "shopify://pages/shopping-for-a-cause"
           }
         }
       },
