@@ -19,8 +19,21 @@
         "announcement-bar-0": {
           "disabled": true,
           "settings": {}
+        },
+        "announcement_mQFXN": {
+          "type": "announcement",
+          "disabled": false,
+          "settings": {
+            "text": "Welcome To Wholesale! Order minimum is $400",
+            "link": ""
+          }
         }
-      }
+      },
+      "block_order": [
+        "announcement_zPQ3jf",
+        "announcement-bar-0",
+        "announcement_mQFXN"
+      ]
     }
   }
 }
