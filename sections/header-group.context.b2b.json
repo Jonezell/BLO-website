@@ -22,7 +22,7 @@
           "type": "announcement",
           "disabled": false,
           "settings": {
-            "text": "Welcome To Wholesale! Order minimum is $400",
+            "text": "Welcome To Wholesale! Order minimum is $400.",
             "link": ""
           }
         }
