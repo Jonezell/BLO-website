@@ -14,9 +14,26 @@
   },
   "sections": {
     "announcement-bar": {
-      "disabled": true,
       "settings": {},
-      "blocks": {}
+      "blocks": {
+        "announcement_FBraU": {
+          "type": "announcement",
+          "disabled": false,
+          "settings": {
+            "text": "Welcome to wholesale",
+            "link": ""
+          }
+        },
+        "announcement-bar-0": {
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "announcement_FBraU",
+        "announcement_zPQ3jf",
+        "announcement-bar-0"
+      ]
     }
   }
 }
