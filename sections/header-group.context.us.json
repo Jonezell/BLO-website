@@ -12,5 +12,42 @@
   "context": {
     "market": "us"
   },
-  "sections": {}
+  "sections": {
+    "announcement_bar_KRzE7": {
+      "type": "announcement-bar",
+      "disabled": false,
+      "settings": {
+        "color_scheme": "",
+        "show_line_separator": true,
+        "header-8e5fac23d968633d89faa381f3ccb102": null,
+        "show_social": false,
+        "header-1bf49e2bd0afb4b8faf06511c1261fd7": null,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "header-bae81c451d72d0c1e160daf78305147a": null,
+        "enable_country_selector": false,
+        "header-88ab5cbe044f81af8dbe2552a05d4dc2": null,
+        "enable_language_selector": false
+      },
+      "blocks": {
+        "announcement_iwE9n": {
+          "type": "announcement",
+          "disabled": false,
+          "settings": {
+            "text": "Free Shipping On U.S. Orders Over $45!",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_iwE9n"
+      ],
+      "name": "t:sections.announcement-bar.presets.name"
+    }
+  },
+  "order": [
+    "announcement_bar_KRzE7",
+    "header",
+    "custom_liquid_t3DXtg"
+  ]
 }
