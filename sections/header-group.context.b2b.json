@@ -14,21 +14,13 @@
   },
   "sections": {
     "announcement-bar": {
-      "disabled": true,
       "settings": {},
       "blocks": {
-        "announcement_bqaGg": {
-          "type": "announcement",
-          "disabled": false,
-          "settings": {
-            "text": "Welcome to wholesale",
-            "link": ""
-          }
+        "announcement-bar-0": {
+          "disabled": true,
+          "settings": {}
         }
-      },
-      "block_order": [
-        "announcement_bqaGg"
-      ]
+      }
     }
   }
 }
