@@ -8,19 +8,9 @@
  * ------------------------------------------------------------
  */
 {
-  "parent": "header-group.json",
+  "parent": "index.json",
   "context": {
-    "market": "all-b2b"
+    "market": "international"
   },
-  "sections": {
-    "announcement-bar": {
-      "settings": {},
-      "blocks": {
-        "announcement-bar-0": {
-          "disabled": true,
-          "settings": {}
-        }
-      }
-    }
-  }
+  "sections": {}
 }
