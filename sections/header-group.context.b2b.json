@@ -16,11 +16,25 @@
     "announcement-bar": {
       "settings": {},
       "blocks": {
-        "announcement-bar-0": {
-          "disabled": true,
-          "settings": {}
+        "announcement_xrdxz": {
+          "type": "announcement",
+          "disabled": false,
+          "settings": {
+            "text": "Welcome to wholesale",
+            "link": ""
+          }
         }
-      }
+      },
+      "block_order": [
+        "announcement_zPQ3jf",
+        "announcement-bar-0",
+        "announcement_xrdxz"
+      ]
     }
-  }
+  },
+  "order": [
+    "announcement-bar",
+    "header",
+    "custom_liquid_t3DXtg"
+  ]
 }
