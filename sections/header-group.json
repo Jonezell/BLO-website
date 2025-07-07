@@ -11,40 +11,6 @@
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
-    "announcement-bar": {
-      "type": "announcement-bar",
-      "blocks": {
-        "announcement_zPQ3jf": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "Save 20% off Christmas release with code 'Trains'",
-            "link": "https://bravelittleones.com/discount/Trains?redirect=%2Fcollections%2Fchristmas-trains-hot-cocoa-and-stars-small-ribbed-release"
-          }
-        },
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "Free Shipping On U.S. Orders Over $45!",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_zPQ3jf",
-        "announcement-bar-0"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "show_line_separator": true,
-        "show_social": false,
-        "auto_rotate": true,
-        "change_slides_speed": 5,
-        "enable_country_selector": false,
-        "enable_language_selector": false
-      }
-    },
     "header": {
       "type": "header",
       "settings": {
@@ -76,7 +42,6 @@
     }
   },
   "order": [
-    "announcement-bar",
     "header",
     "custom_liquid_t3DXtg"
   ]
