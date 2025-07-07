@@ -14,28 +14,13 @@
   },
   "sections": {
     "announcement-bar": {
-      "settings": {
-        "color_scheme": "scheme-3"
-      },
+      "settings": {},
       "blocks": {
         "announcement-bar-0": {
           "disabled": true,
           "settings": {}
-        },
-        "announcement_C7eMG": {
-          "type": "announcement",
-          "disabled": false,
-          "settings": {
-            "text": "Welcome to wholesale! Order minimum is $400.",
-            "link": ""
-          }
         }
-      },
-      "block_order": [
-        "announcement_zPQ3jf",
-        "announcement-bar-0",
-        "announcement_C7eMG"
-      ]
+      }
     }
   }
 }
