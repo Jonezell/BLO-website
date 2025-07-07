@@ -12,5 +12,11 @@
   "context": {
     "market": "us"
   },
-  "sections": {}
+  "sections": {
+    "announcement-bar": {
+      "disabled": false,
+      "settings": {},
+      "blocks": {}
+    }
+  }
 }
