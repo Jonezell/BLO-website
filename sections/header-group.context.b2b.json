@@ -14,12 +14,12 @@
   },
   "sections": {
     "announcement-bar": {
-      "disabled": true,
       "settings": {},
       "blocks": {
         "announcement-bar-0": {
-          "disabled": true,
-          "settings": {}
+          "settings": {
+            "text": "Welcome to wholesale!"
+          }
         }
       }
     }
