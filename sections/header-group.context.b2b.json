@@ -14,6 +14,7 @@
   },
   "sections": {
     "announcement-bar": {
+      "disabled": false,
       "settings": {},
       "blocks": {
         "announcement_xrdxz": {
@@ -23,6 +24,10 @@
             "text": "Welcome to wholesale",
             "link": ""
           }
+        },
+        "announcement-bar-0": {
+          "disabled": true,
+          "settings": {}
         }
       },
       "block_order": [
@@ -31,10 +36,5 @@
         "announcement_xrdxz"
       ]
     }
-  },
-  "order": [
-    "announcement-bar",
-    "header",
-    "custom_liquid_t3DXtg"
-  ]
+  }
 }
