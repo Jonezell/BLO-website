@@ -10,7 +10,7 @@
 {
   "parent": "header-group.json",
   "context": {
-    "b2b": true
+    "market": "all-b2b"
   },
   "sections": {
     "announcement_bar_tU8Cm": {
