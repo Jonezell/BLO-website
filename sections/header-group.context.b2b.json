@@ -8,33 +8,9 @@
  * ------------------------------------------------------------
  */
 {
-  "parent": "header-group.json",
-  "context": {
-    "market": "all-b2b"
-  },
-  "sections": {
-    "announcement-bar": {
-      "disabled": false,
-      "settings": {},
-      "blocks": {
-        "announcement_xrdxz": {
-          "type": "announcement",
-          "disabled": false,
-          "settings": {
-            "text": "Welcome to wholesale",
-            "link": ""
-          }
-        },
-        "announcement-bar-0": {
-          "disabled": true,
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "announcement_zPQ3jf",
-        "announcement-bar-0",
-        "announcement_xrdxz"
-      ]
-    }
-  }
+"parent": "header-group.json",
+"context": {
+"market": "all-b2b"
+},
+"sections": {}
 }
