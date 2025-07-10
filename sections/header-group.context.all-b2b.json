@@ -12,5 +12,42 @@
   "context": {
     "market": "all-b2b"
   },
-  "sections": {}
+  "sections": {
+    "announcement_bar_GPnzX": {
+      "type": "announcement-bar",
+      "disabled": false,
+      "settings": {
+        "color_scheme": "",
+        "show_line_separator": true,
+        "header-1e69dda9c1fdad3e1550de2b889ff96a": null,
+        "show_social": false,
+        "header-3e517a0f6b8d8b577317f6d9141a7038": null,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "header-65191782fce90b9489fc16a097379a00": null,
+        "enable_country_selector": false,
+        "header-5bf7a45c0f9091a53c2b7ce90aa41ae4": null,
+        "enable_language_selector": false
+      },
+      "blocks": {
+        "announcement_MhkCj": {
+          "type": "announcement",
+          "disabled": false,
+          "settings": {
+            "text": "Welcome to wholesale",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_MhkCj"
+      ],
+      "name": "t:sections.announcement-bar.presets.name"
+    }
+  },
+  "order": [
+    "announcement_bar_GPnzX",
+    "header",
+    "custom_liquid_t3DXtg"
+  ]
 }
