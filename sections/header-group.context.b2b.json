@@ -8,9 +8,55 @@
  * ------------------------------------------------------------
  */
 {
-"parent": "header-group.json",
-"context": {
-"market": "all-b2b"
-},
-"sections": {}
+  "parent": "header-group.json",
+  "context": {
+    "market": "all-b2b"
+  },
+  "sections": {
+    "announcement_bar_dVCdw": {
+      "type": "announcement-bar",
+      "disabled": false,
+      "settings": {
+        "color_scheme": "",
+        "show_line_separator": true,
+        "header-bc891fbcb9d515c9754d16e8fb3c47d7": null,
+        "show_social": false,
+        "header-82b33b9d772a4820246e51be2daebb7f": null,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "header-e7225c6cbe89599c36f5cf96f6252673": null,
+        "enable_country_selector": false,
+        "header-6c58debe3f4d0802ea2dd6f4e024a736": null,
+        "enable_language_selector": false
+      },
+      "blocks": {
+        "announcement_aHE8A": {
+          "type": "announcement",
+          "disabled": false,
+          "settings": {
+            "text": "Welcome To Wholesale",
+            "link": ""
+          }
+        },
+        "announcement_EQEXg": {
+          "type": "announcement",
+          "disabled": false,
+          "settings": {
+            "text": "Wholesale order minimum is $400",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_aHE8A",
+        "announcement_EQEXg"
+      ],
+      "name": "t:sections.announcement-bar.presets.name"
+    }
+  },
+  "order": [
+    "announcement_bar_dVCdw",
+    "header",
+    "custom_liquid_t3DXtg"
+  ]
 }
