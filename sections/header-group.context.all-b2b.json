@@ -37,10 +37,19 @@
             "text": "Welcome to wholesale",
             "link": ""
           }
+        },
+        "announcement_xzw64": {
+          "type": "announcement",
+          "disabled": false,
+          "settings": {
+            "text": "Wholesale Order Minimum is $400",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement_MhkCj"
+        "announcement_MhkCj",
+        "announcement_xzw64"
       ],
       "name": "t:sections.announcement-bar.presets.name"
     }
