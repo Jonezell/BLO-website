@@ -17,16 +17,16 @@
       "type": "announcement-bar",
       "disabled": false,
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "show_line_separator": true,
-        "header-1e69dda9c1fdad3e1550de2b889ff96a": null,
+        "header-466b08f5343faf742e03000eb9c0f319": null,
         "show_social": false,
-        "header-3e517a0f6b8d8b577317f6d9141a7038": null,
+        "header-d8e7bf9fd03344355ff644e62c575e7a": null,
         "auto_rotate": false,
         "change_slides_speed": 5,
-        "header-65191782fce90b9489fc16a097379a00": null,
+        "header-1a9f916ef28cadf966746bd69ed02ae2": null,
         "enable_country_selector": false,
-        "header-5bf7a45c0f9091a53c2b7ce90aa41ae4": null,
+        "header-a005050db961e140eff6d209539830f0": null,
         "enable_language_selector": false
       },
       "blocks": {
