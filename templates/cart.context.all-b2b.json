@@ -12,5 +12,13 @@
   "context": {
     "market": "all-b2b"
   },
-  "sections": {}
+  "sections": {
+    "cart-items": {
+      "custom_css": [
+        ".free_shipping_card {display: none !important;}"
+      ],
+      "settings": {},
+      "blocks": {}
+    }
+  }
 }
