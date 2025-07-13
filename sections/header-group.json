@@ -29,20 +29,9 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
-    },
-    "custom_liquid_t3DXtg": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "<script>\n      window.AMP_CART_UPDATED = function(rawCart, cartTarget) {\n        console.log(\"blocking rewards and shipping protection module\");\n\ndocument.querySelector('.cart-count-bubble span[aria-hidden=\"true\"]').innerText = `${rawCart.item_count}`;\n      if (rawCart.item_count > 0){\n        document.querySelector('.cart-count-bubble')?.classList.remove(\"visually-hidden\");\n      } else {\n        document.querySelector('.cart-count-bubble')?.classList.add(\"visually-hidden\");\n      }\n\n        if (cartTarget) {\n          const newBlocks = cartTarget.blocks.map((block) => {\n              if (block.type === \"CartRewardsBlock\") {\n                return {\n                  ...block,\n                  enabled:false\n                }\n              }\n              if (block.type === \"CartShippingProtectionBlock\") {\n                return {\n                  ...block,\n                  enabled:false\n                }\n              }            \n\n            return block;\n          });\n      \n          return {\n            ...cartTarget,\n            blocks: newBlocks,\n          }\n        }\n      }\n    </script>",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
-    "header",
-    "custom_liquid_t3DXtg"
+    "header"
   ]
 }
