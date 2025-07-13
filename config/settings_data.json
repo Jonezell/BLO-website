@@ -192,17 +192,17 @@
         "disabled": false,
         "settings": {}
       },
-      "1206128725646818650": {
-        "type": "shopify://apps/upsell-by-amp/blocks/app-embed/04a7ddf7-3a4c-4228-9a44-33ba2380f058",
-        "disabled": false,
-        "settings": {
-          "override_url": ""
-        }
-      },
       "17428600031447253342": {
         "type": "shopify://apps/attentive/blocks/attn-tag/8df62c72-8fe4-407e-a5b3-72132be30a0d",
         "disabled": false,
         "settings": {}
+      },
+      "1206128725646818650": {
+        "type": "shopify://apps/upsell-by-amp/blocks/app-embed/04a7ddf7-3a4c-4228-9a44-33ba2380f058",
+        "disabled": true,
+        "settings": {
+          "override_url": ""
+        }
       }
     },
     "color_schemes": {
