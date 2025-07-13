@@ -46,7 +46,7 @@
     },
     "custom_liquid_bqCpr": {
       "type": "custom-liquid",
-      "disabled": true,
+      "disabled": false,
       "settings": {
         "custom_liquid": "<script>\nwindow.AMP_CART_UPDATED = function (rawCart) {\n  console.log(\"blocking rewards and shipping protection module\");\n\n  const countSpan = document.querySelector('.cart-count-bubble span[aria-hidden=\"true\"]');\n  const bubble = document.querySelector('.cart-count-bubble');\n\n  // Only set text if countSpan exists\n  if (countSpan) {\n    countSpan.innerText = `${rawCart.item_count}`;\n  }\n\n  // Only modify visibility if bubble exists\n  if (bubble) {\n    if (rawCart.item_count > 0) {\n      bubble.classList.remove(\"visually-hidden\");\n    } else {\n      bubble.classList.add(\"visually-hidden\");\n    }\n  }\n};\n</script>",
         "color_scheme": "",
