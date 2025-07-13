@@ -17,11 +17,11 @@
       "type": "custom-liquid",
       "disabled": false,
       "settings": {
-        "custom_liquid": "<script>\n      window.AMP_CART_UPDATED = function(rawCart, cartTarget) {\n        console.log(\"blocking rewards and shipping protection module\");\n\ndocument.querySelector('.cart-count-bubble span[aria-hidden=\"true\"]').innerText = `${rawCart.item_count}`;\n      if (rawCart.item_count > 0){\n        document.querySelector('.cart-count-bubble')?.classList.remove(\"visually-hidden\");\n      } else {\n        document.querySelector('.cart-count-bubble')?.classList.add(\"visually-hidden\");\n      }\n\n        if (cartTarget) {\n          const newBlocks = cartTarget.blocks.map((block) => {\n              if (block.type === \"CartRewardsBlock\") {\n                return {\n                  ...block,\n                  enabled:false\n                }\n              }\n              if (block.type === \"CartShippingProtectionBlock\") {\n                return {\n                  ...block,\n                  enabled:false\n                }\n              }            \n\n            return block;\n          });\n      \n          return {\n            ...cartTarget,\n            blocks: newBlocks,\n          }\n        }\n      }\n    </script>",
+        "custom_liquid": "<script>\n      window.AMP_CART_UPDATED = function(rawCart, cartTarget) {\n        console.log(\"blocking rewards and shipping protection module\");\n\nconst countSpan = document.querySelector('.cart-count-bubble span[aria-hidden=\"true\"]');\n  const bubble = document.querySelector('.cart-count-bubble');\n\n  // Only set text if countSpan exists\n  if (countSpan) {\n    countSpan.innerText = `${rawCart.item_count}`;\n  }\n\n  // Only modify visibility if bubble exists\n  if (bubble) {\n    if (rawCart.item_count > 0) {\n      bubble.classList.remove(\"visually-hidden\");\n    } else {\n      bubble.classList.add(\"visually-hidden\");\n    }\n  }\n\n        if (cartTarget) {\n          const newBlocks = cartTarget.blocks.map((block) => {\n              if (block.type === \"CartRewardsBlock\") {\n                return {\n                  ...block,\n                  enabled:false\n                }\n              }\n              if (block.type === \"CartShippingProtectionBlock\") {\n                return {\n                  ...block,\n                  enabled:false\n                }\n              }            \n\n            return block;\n          });\n      \n          return {\n            ...cartTarget,\n            blocks: newBlocks,\n          }\n        }\n      }\n    </script>",
         "color_scheme": "",
-        "header-ca7fa168d305b1ed0e221eb039d77b78": null,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "header-67bb14498020e60e61fc2761855e6df0": null,
+        "padding_top": 0,
+        "padding_bottom": 0
       },
       "blocks": {},
       "block_order": [],
