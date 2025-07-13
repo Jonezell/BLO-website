@@ -48,7 +48,7 @@
       "type": "custom-liquid",
       "disabled": false,
       "settings": {
-        "custom_liquid": "<script>\n\nwindow.AMP_CART_UPDATED = function(rawCart) {\n    console.log(\"blocking rewards and shipping protection module\");\n\n    document.querySelector('.cart-count-bubble span[aria-hidden=\"true\"]').innerText = `${rawCart.item_count}`;\n    if (rawCart.item_count > 0) {\n        document.querySelector('.cart-count-bubble')?.classList.remove(\"visually-hidden\");\n    } else {\n        document.querySelector('.cart-count-bubble')?.classList.add(\"visually-hidden\");\n    }\n}\n\n</script>",
+        "custom_liquid": "<script>\nwindow.AMP_CART_UPDATED = function (rawCart) {\n  console.log(\"blocking rewards and shipping protection module\");\n\n  const countSpan = document.querySelector('.cart-count-bubble span[aria-hidden=\"true\"]');\n  const bubble = document.querySelector('.cart-count-bubble');\n\n  // Only set text if countSpan exists\n  if (countSpan) {\n    countSpan.innerText = `${rawCart.item_count}`;\n  }\n\n  // Only modify visibility if bubble exists\n  if (bubble) {\n    if (rawCart.item_count > 0) {\n      bubble.classList.remove(\"visually-hidden\");\n    } else {\n      bubble.classList.add(\"visually-hidden\");\n    }\n  }\n};\n</script>",
         "color_scheme": "",
         "header-3fab12123c825b5a31d68587eb34d169": null,
         "padding_top": 0,
