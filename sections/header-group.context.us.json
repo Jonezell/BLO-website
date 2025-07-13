@@ -19,14 +19,14 @@
       "settings": {
         "color_scheme": "",
         "show_line_separator": true,
-        "header-0dc254e45c6b45941a9ea72e4276c373": null,
+        "header-671c0d48dfaf60f7d75f13841defde43": null,
         "show_social": false,
-        "header-2b839602de35cb0b248a12cefd7e72ed": null,
+        "header-e9c6406af59da252132d0ddb45b5ab3b": null,
         "auto_rotate": false,
         "change_slides_speed": 5,
-        "header-813b62e01a7e6044e3195cdda90fb3f0": null,
+        "header-5017f6d820a99dce3c4d7182b8b817b1": null,
         "enable_country_selector": false,
-        "header-4e24fb64c79ac8d3993021b09c0f0370": null,
+        "header-462d71882a2920da35c6073195ab35cb": null,
         "enable_language_selector": false
       },
       "blocks": {
@@ -46,11 +46,11 @@
     },
     "custom_liquid_bqCpr": {
       "type": "custom-liquid",
-      "disabled": false,
+      "disabled": true,
       "settings": {
         "custom_liquid": "<script>\nwindow.AMP_CART_UPDATED = function (rawCart) {\n  console.log(\"blocking rewards and shipping protection module\");\n\n  const countSpan = document.querySelector('.cart-count-bubble span[aria-hidden=\"true\"]');\n  const bubble = document.querySelector('.cart-count-bubble');\n\n  // Only set text if countSpan exists\n  if (countSpan) {\n    countSpan.innerText = `${rawCart.item_count}`;\n  }\n\n  // Only modify visibility if bubble exists\n  if (bubble) {\n    if (rawCart.item_count > 0) {\n      bubble.classList.remove(\"visually-hidden\");\n    } else {\n      bubble.classList.add(\"visually-hidden\");\n    }\n  }\n};\n</script>",
         "color_scheme": "",
-        "header-3fab12123c825b5a31d68587eb34d169": null,
+        "header-173193eb063000beb33bf81c731fde86": null,
         "padding_top": 0,
         "padding_bottom": 0
       },
