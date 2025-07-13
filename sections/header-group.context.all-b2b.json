@@ -19,14 +19,14 @@
       "settings": {
         "color_scheme": "scheme-3",
         "show_line_separator": true,
-        "header-466b08f5343faf742e03000eb9c0f319": null,
+        "header-39e25db1184fd3c2b4a93e6905b5be80": null,
         "show_social": false,
-        "header-d8e7bf9fd03344355ff644e62c575e7a": null,
+        "header-30d99e7eebf274719be040e8a67e4e66": null,
         "auto_rotate": false,
         "change_slides_speed": 5,
-        "header-1a9f916ef28cadf966746bd69ed02ae2": null,
+        "header-c23a489b1fd5b391538f592e12ac6fbe": null,
         "enable_country_selector": false,
-        "header-a005050db961e140eff6d209539830f0": null,
+        "header-88bc5f836d7bcbfb9e5dae4f590ed5d9": null,
         "enable_language_selector": false
       },
       "blocks": {
@@ -52,11 +52,25 @@
         "announcement_xzw64"
       ],
       "name": "t:sections.announcement-bar.presets.name"
+    },
+    "custom_liquid_EMBQ6": {
+      "type": "custom-liquid",
+      "disabled": false,
+      "settings": {
+        "custom_liquid": "<script>\n      window.AMP_CART_UPDATED = function(rawCart, cartTarget) {\n        console.log(\"blocking rewards and shipping protection module\");\n\n        if (cartTarget) {\n          const newBlocks = cartTarget.blocks.map((block) => {\n              if (block.type === \"CartRewardsBlock\") {\n                return {\n                  ...block,\n                  enabled:false\n                }\n              }\n              if (block.type === \"CartShippingProtectionBlock\") {\n                return {\n                  ...block,\n                  enabled:false\n                }\n              }            \n\n            return block;\n          });\n      \n          return {\n            ...cartTarget,\n            blocks: newBlocks,\n          }\n        }\n      }\n    </script>",
+        "color_scheme": "",
+        "header-bb776927fc5a86bed1e73f29f9aed2be": null,
+        "padding_top": 40,
+        "padding_bottom": 52
+      },
+      "blocks": {},
+      "block_order": [],
+      "name": "t:sections.custom-liquid.presets.name"
     }
   },
   "order": [
     "announcement_bar_GPnzX",
     "header",
-    "custom_liquid_t3DXtg"
+    "custom_liquid_EMBQ6"
   ]
 }
