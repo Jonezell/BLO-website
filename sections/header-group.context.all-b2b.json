@@ -19,14 +19,14 @@
       "settings": {
         "color_scheme": "scheme-3",
         "show_line_separator": true,
-        "header-39e25db1184fd3c2b4a93e6905b5be80": null,
+        "header-a35ceb292d459d6fa7740d1744406f1b": null,
         "show_social": false,
-        "header-30d99e7eebf274719be040e8a67e4e66": null,
+        "header-ab4c87d1107f993cb2cb4e09e2958b17": null,
         "auto_rotate": false,
         "change_slides_speed": 5,
-        "header-c23a489b1fd5b391538f592e12ac6fbe": null,
+        "header-05f9572eb4177a67de2f8eabfc540057": null,
         "enable_country_selector": false,
-        "header-88bc5f836d7bcbfb9e5dae4f590ed5d9": null,
+        "header-b5a6dca236a891ce96a4f3630d503c39": null,
         "enable_language_selector": false
       },
       "blocks": {
@@ -57,9 +57,9 @@
       "type": "custom-liquid",
       "disabled": false,
       "settings": {
-        "custom_liquid": "<script>\n      window.AMP_CART_UPDATED = function(rawCart, cartTarget) {\n        console.log(\"blocking rewards and shipping protection module\");\n\n        if (cartTarget) {\n          const newBlocks = cartTarget.blocks.map((block) => {\n              if (block.type === \"CartRewardsBlock\") {\n                return {\n                  ...block,\n                  enabled:false\n                }\n              }\n              if (block.type === \"CartShippingProtectionBlock\") {\n                return {\n                  ...block,\n                  enabled:false\n                }\n              }            \n\n            return block;\n          });\n      \n          return {\n            ...cartTarget,\n            blocks: newBlocks,\n          }\n        }\n      }\n    </script>",
+        "custom_liquid": "<script>\n      window.AMP_CART_UPDATED = function(rawCart, cartTarget) {\n        console.log(\"blocking rewards and shipping protection module\");\n\nconst countSpan = document.querySelector('.cart-count-bubble span[aria-hidden=\"true\"]');\n  const bubble = document.querySelector('.cart-count-bubble');\n\n  // Only set text if countSpan exists\n  if (countSpan) {\n    countSpan.innerText = `${rawCart.item_count}`;\n  }\n\n  // Only modify visibility if bubble exists\n  if (bubble) {\n    if (rawCart.item_count > 0) {\n      bubble.classList.remove(\"visually-hidden\");\n    } else {\n      bubble.classList.add(\"visually-hidden\");\n    }\n  }\n\n        if (cartTarget) {\n          const newBlocks = cartTarget.blocks.map((block) => {\n              if (block.type === \"CartRewardsBlock\") {\n                return {\n                  ...block,\n                  enabled:false\n                }\n              }\n              if (block.type === \"CartShippingProtectionBlock\") {\n                return {\n                  ...block,\n                  enabled:false\n                }\n              }            \n\n            return block;\n          });\n      \n          return {\n            ...cartTarget,\n            blocks: newBlocks,\n          }\n        }\n      }\n    </script>",
         "color_scheme": "",
-        "header-bb776927fc5a86bed1e73f29f9aed2be": null,
+        "header-85d38c347a2f149ea49e8cab2df6ac8d": null,
         "padding_top": 0,
         "padding_bottom": 0
       },

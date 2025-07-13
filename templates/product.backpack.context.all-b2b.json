@@ -10,7 +10,7 @@
 {
   "parent": "product.backpack.json",
   "context": {
-    "market": "international"
+    "market": "all-b2b"
   },
   "sections": {}
 }
