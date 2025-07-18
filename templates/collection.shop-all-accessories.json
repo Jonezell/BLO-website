@@ -27,18 +27,18 @@
             "linkurl": "shopify://collections/accessories"
           }
         },
+        "link_fg6EEB": {
+          "type": "link",
+          "settings": {
+            "text": "Briefs & Underwear",
+            "linkurl": "shopify://collections/briefs-underwear"
+          }
+        },
         "link_Ar3png": {
           "type": "link",
           "settings": {
             "text": "Bows",
             "linkurl": "shopify://collections/bows"
-          }
-        },
-        "link_fg6EEB": {
-          "type": "link",
-          "settings": {
-            "text": "Trucker Hats",
-            "linkurl": "shopify://collections/trucker-hats"
           }
         },
         "link_fpBiNw": {
@@ -51,8 +51,8 @@
         "link_FxV6x8": {
           "type": "link",
           "settings": {
-            "text": "Backpacks & Lunchboxes",
-            "linkurl": "shopify://collections/backpacks-lunch-boxes"
+            "text": "Backpacks",
+            "linkurl": "shopify://collections/backpacks"
           }
         },
         "link_X6btXJ": {
@@ -72,8 +72,8 @@
       },
       "block_order": [
         "link_mf33wC",
-        "link_Ar3png",
         "link_fg6EEB",
+        "link_Ar3png",
         "link_fpBiNw",
         "link_FxV6x8",
         "link_X6btXJ",

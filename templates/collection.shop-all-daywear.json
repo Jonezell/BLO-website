@@ -64,6 +64,7 @@
         },
         "link_CQ9n4K": {
           "type": "link",
+          "disabled": true,
           "settings": {
             "text": "Briefs & Underwear",
             "linkurl": "shopify://collections/briefs-underwear"
