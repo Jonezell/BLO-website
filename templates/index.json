@@ -235,7 +235,7 @@
               "pocket-dresses",
               "flutter-sleeve-rompers",
               "ruffle-rompers",
-              "briefs-underwear"
+              "harem-rompers"
             ]
           }
         },
@@ -271,10 +271,10 @@
             "collection_group_title": "And More",
             "collection_list": [
               "bows",
-              "trucker-hats",
               "sun-hats",
               "sleep-sacks",
-              "womens"
+              "womens",
+              "briefs-underwear"
             ]
           }
         }
@@ -508,11 +508,11 @@
           "settings": {
             "collection_group_title": "Prints",
             "collection_list": [
+              "trains-small-ribbed",
               "sports-zone-small-ribbed",
               "military-small-ribbed",
               "county-fair-small-ribbed",
-              "vintage-cherries-small-ribbed",
-              "island-palm-trees-small-ribbed"
+              "vintage-cherries-small-ribbed"
             ]
           }
         },
@@ -521,11 +521,11 @@
           "settings": {
             "collection_group_title": "Solids & Stripes",
             "collection_list": [
+              "dark-steel-blue-small-ribbed",
               "bubblegum-pink-small-ribbed",
               "poolside-blue-small-ribbed",
               "lemon-yellow-small-ribbed",
-              "teal-small-ribbed",
-              "coral-small-ribbed"
+              "teal-small-ribbed"
             ]
           }
         }
