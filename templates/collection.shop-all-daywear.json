@@ -34,11 +34,12 @@
             "linkurl": "shopify://collections/shirts-tanks"
           }
         },
-        "link_Vpf4Rh": {
+        "link_CTw7ir": {
           "type": "link",
+          "disabled": true,
           "settings": {
-            "text": "Harem Rompers",
-            "linkurl": "shopify://collections/harem-rompers"
+            "text": "Pullovers & Joggers",
+            "linkurl": "shopify://collections/pullovers-joggers"
           }
         },
         "link_X6btXJ": {
@@ -55,12 +56,11 @@
             "linkurl": "shopify://collections/flutter-sleeve-ruffle-rompers"
           }
         },
-        "link_CTw7ir": {
+        "link_Vpf4Rh": {
           "type": "link",
-          "disabled": true,
           "settings": {
-            "text": "Ruffle Rompers",
-            "linkurl": "shopify://collections/ruffle-rompers"
+            "text": "Harem Rompers",
+            "linkurl": "shopify://collections/harem-rompers"
           }
         },
         "link_CQ9n4K": {
@@ -75,10 +75,10 @@
       "block_order": [
         "link_mf33wC",
         "link_Ar3png",
-        "link_Vpf4Rh",
+        "link_CTw7ir",
         "link_X6btXJ",
         "link_iYnxaU",
-        "link_CTw7ir",
+        "link_Vpf4Rh",
         "link_CQ9n4K"
       ],
       "settings": {}
