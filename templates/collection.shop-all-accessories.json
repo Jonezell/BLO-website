@@ -36,6 +36,7 @@
         },
         "link_WtrdaE": {
           "type": "link",
+          "disabled": true,
           "settings": {
             "text": "Beanies",
             "linkurl": "shopify://collections/knit-beanies"
