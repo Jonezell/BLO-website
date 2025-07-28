@@ -51,12 +51,13 @@
         "link_iYnxaU": {
           "type": "link",
           "settings": {
-            "text": "Flutter Sleeve Rompers",
-            "linkurl": "shopify://collections/flutter-sleeve-rompers"
+            "text": "Flutter & Ruffle Rompers",
+            "linkurl": "shopify://collections/flutter-sleeve-ruffle-rompers"
           }
         },
         "link_CTw7ir": {
           "type": "link",
+          "disabled": true,
           "settings": {
             "text": "Ruffle Rompers",
             "linkurl": "shopify://collections/ruffle-rompers"
