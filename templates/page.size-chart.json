@@ -284,26 +284,6 @@
         "padding_bottom": 100
       }
     },
-    "page_a8fmqp": {
-      "type": "page",
-      "settings": {
-        "page": "size-chart-mens-shirts",
-        "heading_size": "h2",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 100
-      }
-    },
-    "page_kYpCBx": {
-      "type": "page",
-      "settings": {
-        "page": "size-chart-mens-pants",
-        "heading_size": "h2",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 100
-      }
-    },
     "page_9EgkBH": {
       "type": "page",
       "settings": {
@@ -347,8 +327,6 @@
     "page_cJmEQK",
     "page_AdhXmq",
     "page_MHx4Yf",
-    "page_a8fmqp",
-    "page_kYpCBx",
     "page_9EgkBH",
     "page_MrfhTD"
   ]
