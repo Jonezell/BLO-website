@@ -507,11 +507,11 @@
           "settings": {
             "collection_group_title": "Prints",
             "collection_list": [
+              "coquette-bows-small-ribbed",
+              "mauve-floral-small-ribbed",
               "trains-small-ribbed",
               "sports-zone-small-ribbed",
-              "military-small-ribbed",
-              "county-fair-small-ribbed",
-              "vintage-cherries-small-ribbed"
+              "military-small-ribbed"
             ]
           }
         },
@@ -520,11 +520,11 @@
           "settings": {
             "collection_group_title": "Solids & Stripes",
             "collection_list": [
+              "ballet-pink-small-ribbed",
               "dark-steel-blue-small-ribbed",
               "bubblegum-pink-small-ribbed",
               "poolside-blue-small-ribbed",
-              "lemon-yellow-small-ribbed",
-              "teal-small-ribbed"
+              "lemon-yellow-small-ribbed"
             ]
           }
         }

@@ -36,7 +36,6 @@
         },
         "link_CTw7ir": {
           "type": "link",
-          "disabled": true,
           "settings": {
             "text": "Pullovers & Joggers",
             "linkurl": "shopify://collections/pullovers-joggers"
