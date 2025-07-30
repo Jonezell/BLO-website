@@ -204,6 +204,16 @@
         "padding_bottom": 100
       }
     },
+    "page_8APfJ4": {
+      "type": "page",
+      "settings": {
+        "page": "copy-of-size-chart-joggers",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
     "page_Wf8Amx": {
       "type": "page",
       "settings": {
@@ -329,6 +339,7 @@
     "page_AgRECq",
     "page_9iPgL6",
     "page_p9dYyc",
+    "page_8APfJ4",
     "page_Wf8Amx",
     "page_twqega",
     "page_QEQTit",
