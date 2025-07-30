@@ -194,6 +194,16 @@
         "padding_bottom": 100
       }
     },
+    "page_p9dYyc": {
+      "type": "page",
+      "settings": {
+        "page": "size-chart-pullovers",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
     "page_Wf8Amx": {
       "type": "page",
       "settings": {
@@ -318,6 +328,7 @@
     "page_hFxQcV",
     "page_AgRECq",
     "page_9iPgL6",
+    "page_p9dYyc",
     "page_Wf8Amx",
     "page_twqega",
     "page_QEQTit",
