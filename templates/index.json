@@ -507,11 +507,11 @@
           "settings": {
             "collection_group_title": "Prints",
             "collection_list": [
+              "prehistoric-dinosaurs",
               "coquette-bows-small-ribbed",
               "mauve-floral-small-ribbed",
               "trains-small-ribbed",
-              "sports-zone-small-ribbed",
-              "military-small-ribbed"
+              "sports-zone-small-ribbed"
             ]
           }
         },
@@ -520,11 +520,11 @@
           "settings": {
             "collection_group_title": "Solids & Stripes",
             "collection_list": [
+              "olive-small-ribbed",
               "ballet-pink-small-ribbed",
               "dark-steel-blue-small-ribbed",
               "bubblegum-pink-small-ribbed",
-              "poolside-blue-small-ribbed",
-              "lemon-yellow-small-ribbed"
+              "poolside-blue-small-ribbed"
             ]
           }
         }
