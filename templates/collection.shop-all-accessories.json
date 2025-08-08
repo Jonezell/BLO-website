@@ -57,6 +57,7 @@
         },
         "link_FxV6x8": {
           "type": "link",
+          "disabled": true,
           "settings": {
             "text": "Backpacks & Lunchboxes",
             "linkurl": "shopify://collections/backpacks-lunch-boxes"
