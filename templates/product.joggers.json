@@ -34,7 +34,7 @@
         "produdct_as_variants_CXULYg": {
           "type": "produdct-as-variants",
           "settings": {
-            "label": "Style",
+            "label": "Color",
             "style": "swatch",
             "target_collection": "joggers",
             "swatch_offset_Y": 30,
