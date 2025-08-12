@@ -197,6 +197,16 @@
         "padding_bottom": 100
       }
     },
+    "page_yVaRNG": {
+      "type": "page",
+      "settings": {
+        "page": "size-chart-puffer-jackets",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
     "page_n6z3wz": {
       "type": "page",
       "disabled": true,
@@ -263,6 +273,7 @@
     "page_x8UPqW",
     "page_rcDRDX",
     "page_MnFntV",
+    "page_yVaRNG",
     "page_n6z3wz",
     "page_rrkXfF",
     "page_jPkrnh",
