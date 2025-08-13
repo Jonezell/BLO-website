@@ -34,6 +34,13 @@
             "linkurl": "shopify://collections/shirts-tanks"
           }
         },
+        "link_WpUf93": {
+          "type": "link",
+          "settings": {
+            "text": "Puffer Jackets",
+            "linkurl": "shopify://collections/puffer-jackets-release"
+          }
+        },
         "link_CTw7ir": {
           "type": "link",
           "settings": {
@@ -74,6 +81,7 @@
       "block_order": [
         "link_mf33wC",
         "link_Ar3png",
+        "link_WpUf93",
         "link_CTw7ir",
         "link_X6btXJ",
         "link_iYnxaU",
