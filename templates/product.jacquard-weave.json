@@ -62,7 +62,7 @@
           }
         },
         "back_in_stock_customer_alerts_app_block_UBNLgM": {
-          "type": "shopify://apps/back-in-stock-customer-alerts/blocks/app-block/bfa6a8c4-24e2-411a-9396-e35031b33f34",
+          "type": "shopify://apps/amp-back-in-stock/blocks/app-block/bfa6a8c4-24e2-411a-9396-e35031b33f34",
           "settings": {
             "caption": "Email when available",
             "font_size": 16,
@@ -169,17 +169,20 @@
       "blocks": {
         "judge_me_reviews_review_widget_w8Ua44": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200
+          }
         }
       },
       "block_order": [
         "judge_me_reviews_review_widget_w8Ua44"
       ],
       "custom_css": [
-        "section {background-color: var(--blo-terra);}"
+        ".shopify-app-block {background: var(--blo-beige);}"
       ],
       "settings": {
-        "include_margins": true
+        "include_margins": false
       }
     },
     "blo_product_callouts_qHXD4R": {

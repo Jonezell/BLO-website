@@ -149,7 +149,7 @@
         ".shopify-app-block {background: var(--blo-beige);}"
       ],
       "settings": {
-        "include_margins": true
+        "include_margins": false
       }
     },
     "multicolumn_9BaJhe": {
