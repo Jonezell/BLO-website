@@ -508,11 +508,11 @@
           "settings": {
             "collection_group_title": "Prints",
             "collection_list": [
+              "fall-blooms-small-ribbed",
               "halloween-boo-crew-small-ribbed",
               "pumpkin-patch-small-ribbed",
               "pumpkins",
-              "caramel-small-gingham",
-              "prehistoric-dinosaurs"
+              "caramel-small-gingham"
             ]
           }
         },
@@ -521,11 +521,11 @@
           "settings": {
             "collection_group_title": "Solids & Stripes",
             "collection_list": [
+              "plum-small-ribbed",
               "burnt-orange-small-ribbed",
               "olive-small-ribbed",
               "ballet-pink-small-ribbed",
-              "dark-steel-blue-small-ribbed",
-              "bubblegum-pink-small-ribbed"
+              "dark-steel-blue-small-ribbed"
             ]
           }
         }
