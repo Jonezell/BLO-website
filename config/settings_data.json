@@ -199,7 +199,7 @@
       },
       "1206128725646818650": {
         "type": "shopify://apps/upsell-by-amp/blocks/app-embed/04a7ddf7-3a4c-4228-9a44-33ba2380f058",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "override_url": ""
         }
