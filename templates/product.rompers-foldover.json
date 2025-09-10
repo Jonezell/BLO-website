@@ -33,7 +33,6 @@
         },
         "produdct_as_variants_CXULYg": {
           "type": "produdct-as-variants",
-          "disabled": true,
           "settings": {
             "label": "Color",
             "style": "swatch",
