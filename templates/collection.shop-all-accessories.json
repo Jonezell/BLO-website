@@ -50,6 +50,7 @@
         },
         "link_fpBiNw": {
           "type": "link",
+          "disabled": true,
           "settings": {
             "text": "Sun Hats",
             "linkurl": "shopify://collections/sun-hats"
@@ -95,6 +96,7 @@
       "settings": {
         "products_per_page": 36,
         "columns_desktop": 3,
+        "columns_mobile": "1",
         "color_scheme": "",
         "image_ratio": "adapt",
         "image_shape": "default",
@@ -105,7 +107,6 @@
         "enable_filtering": true,
         "filter_type": "vertical",
         "enable_sorting": true,
-        "columns_mobile": "1",
         "padding_top": 0,
         "padding_bottom": 100
       }

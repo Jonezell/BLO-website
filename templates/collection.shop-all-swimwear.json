@@ -43,6 +43,7 @@
         },
         "link_X6btXJ": {
           "type": "link",
+          "disabled": true,
           "settings": {
             "text": "Long Sleeve One-Piece Rash Guard Bathing Suits",
             "linkurl": "shopify://collections/long-sleeve-one-piece-rash-guards"
@@ -70,6 +71,7 @@
       "settings": {
         "products_per_page": 36,
         "columns_desktop": 3,
+        "columns_mobile": "1",
         "color_scheme": "",
         "image_ratio": "adapt",
         "image_shape": "default",
@@ -80,7 +82,6 @@
         "enable_filtering": true,
         "filter_type": "vertical",
         "enable_sorting": true,
-        "columns_mobile": "1",
         "padding_top": 0,
         "padding_bottom": 100
       }
