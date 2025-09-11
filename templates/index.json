@@ -403,18 +403,18 @@
     "blo_customer_favorite_products_efbjN3": {
       "type": "blo-customer-favorite-products",
       "blocks": {
-        "product_list_8EDnm7": {
-          "type": "product_list",
-          "settings": {
-            "product": "trash-trucks-small-ribbed-two-piece-set",
-            "image": "shopify://shop_images/EG_L0243.jpg"
-          }
-        },
         "product_list_hmnNeB": {
           "type": "product_list",
           "settings": {
             "product": "big-daisies-small-ribbed-zip-romper",
             "image": "shopify://shop_images/BLOjune-733.jpg"
+          }
+        },
+        "product_list_ewFzzq": {
+          "type": "product_list",
+          "settings": {
+            "product": "construction-small-ribbed-two-piece-set",
+            "image": "shopify://shop_images/28A8A6628-Edit.jpg"
           }
         },
         "product_list_rVp3GL": {
@@ -424,27 +424,27 @@
             "image": "shopify://shop_images/4bravelittleonesss24-370_aaa292f5-1262-49b2-93da-a221bce51dc6.jpg"
           }
         },
+        "product_list_8EDnm7": {
+          "type": "product_list",
+          "settings": {
+            "product": "race-cars-small-ribbed-two-piece-set",
+            "image": "shopify://shop_images/EM__4540.jpg"
+          }
+        },
         "product_list_rBaXtP": {
           "type": "product_list",
           "settings": {
-            "product": "green-floral-small-ribbed-two-piece-set",
-            "image": "shopify://shop_images/BLOfw23-493_4b7c3766-350b-456f-bcc0-42f433887d50.jpg"
-          }
-        },
-        "product_list_ewFzzq": {
-          "type": "product_list",
-          "settings": {
-            "product": "construction-small-ribbed-two-piece-set",
-            "image": "shopify://shop_images/28A8A6628-Edit.jpg"
+            "product": "coquette-bows-small-ribbed-two-piece-set",
+            "image": "shopify://shop_images/bravemay-253.jpg"
           }
         }
       },
       "block_order": [
-        "product_list_8EDnm7",
         "product_list_hmnNeB",
+        "product_list_ewFzzq",
         "product_list_rVp3GL",
-        "product_list_rBaXtP",
-        "product_list_ewFzzq"
+        "product_list_8EDnm7",
+        "product_list_rBaXtP"
       ],
       "settings": {
         "title": "Shop Our Customer Favorites!",
@@ -627,18 +627,18 @@
         ".title {text-align: center;}"
       ],
       "settings": {
+        "collection": "best-sellers",
+        "products_to_show": 4,
         "title": "Shop Best Sellers",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "best-sellers",
-        "products_to_show": 4,
         "columns_desktop": 4,
+        "enable_desktop_slider": true,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
-        "enable_desktop_slider": true,
         "color_scheme": "",
         "image_ratio": "adapt",
         "image_shape": "default",
