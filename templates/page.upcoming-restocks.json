@@ -54,6 +54,7 @@
         "paragraph_AnLzxt",
         "email_form_pF66AU"
       ],
+      "disabled": true,
       "name": "t:sections.newsletter.presets.name",
       "settings": {
         "color_scheme": "",
@@ -61,11 +62,22 @@
         "padding_top": 40,
         "padding_bottom": 100
       }
+    },
+    "custom_liquid_BhWCaT": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<iframe height=\"100%\" width=\"100%\" style=\"min-height: 800px; border: none;\" src=\"https://bravelittleones.attn.tv/p/Fi8/landing-page2\"></iframe>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
     "main",
     "custom_liquid_dT78cG",
-    "newsletter_Ut3RTb"
+    "newsletter_Ut3RTb",
+    "custom_liquid_BhWCaT"
   ]
 }
