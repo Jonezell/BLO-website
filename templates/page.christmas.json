@@ -23,17 +23,18 @@
         "heading_kMjd3F": {
           "type": "heading",
           "settings": {
-            "heading": "Shop our Christmas Collection"
+            "heading": "Christmas Is Almost Here!"
           }
         },
         "text_MUkNUc": {
           "type": "text",
           "settings": {
-            "text": "'Tis the season of comfort and joy. Our festive and adorable seasonal prints are here, but they won't last long."
+            "text": "'Tis the season of comfort and joy. Our festive and adorable seasonal prints are almost here, but they won't last long."
           }
         },
         "buttons_q7pKaT": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label": "Shop All",
             "button_link": "shopify://collections/christmas-2024-releases"
@@ -45,12 +46,11 @@
         "text_MUkNUc",
         "buttons_q7pKaT"
       ],
-      "disabled": true,
       "settings": {
         "layout-direction": "layout-left",
         "media-type": "video",
-        "video": "shopify://files/videos/bravevideofw24-136_9dbdd7d6-a8fe-4b2c-b421-91bc8e995806.mp4",
-        "image-secondary": "shopify://shop_images/image-secondary_d4084325-22d5-46ae-9937-9fd851159e90.jpg",
+        "video": "shopify://files/videos/bravechristmas25-051.mp4",
+        "image-secondary": "shopify://shop_images/bravechristmas25-958.jpg",
         "image-decoration-top-right": "shopify://shop_images/Layer_1_c57b00c6-a4a5-42d4-91c3-7b243b799eb5.svg",
         "image-decoration-top-width": 60,
         "image-decoration-top": -9,
@@ -112,7 +112,7 @@
         "button_CfH6NU"
       ],
       "custom_css": [
-        ".image-with-text__text--caption{margin-bottom: 10px;}"
+        ".image-with-text__text--caption {margin-bottom: 10px;}"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
