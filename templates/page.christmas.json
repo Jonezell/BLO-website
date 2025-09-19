@@ -111,6 +111,9 @@
         "text_xXHLJ8",
         "button_CfH6NU"
       ],
+      "custom_css": [
+        ".image-with-text__text--caption{margin-bottom: 10px;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Snowman_Fabric_0012.jpg",
@@ -119,7 +122,7 @@
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
@@ -169,6 +172,9 @@
         "text_3dwRdf",
         "button_iMCzTw"
       ],
+      "custom_css": [
+        ".image-with-text__text--caption {margin-bottom: 10px;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Nativity_Fabric_0010.jpg",
@@ -177,7 +183,7 @@
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
@@ -227,6 +233,9 @@
         "text_An3UAb",
         "button_y4qfjc"
       ],
+      "custom_css": [
+        ".image-with-text__text--caption {margin-bottom: 10px;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/HotCocoa_Fabric_0008.jpg",
@@ -235,7 +244,7 @@
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
@@ -285,6 +294,9 @@
         "text_qczwgE",
         "button_XFz67C"
       ],
+      "custom_css": [
+        ".image-with-text__text--caption {margin-bottom: 10px;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/RedTruck_Fabric_0002.jpg",
@@ -293,7 +305,7 @@
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
@@ -343,6 +355,9 @@
         "text_faTW9X",
         "button_zBemUm"
       ],
+      "custom_css": [
+        ".image-with-text__text--caption {margin-bottom: 10px;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/SantasWorkshop_Fabric_0004.jpg",
@@ -351,7 +366,7 @@
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
@@ -401,6 +416,9 @@
         "text_xcijkr",
         "button_fhiWGx"
       ],
+      "custom_css": [
+        ".image-with-text__text--caption {margin-bottom: 10px;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/SugarCookies_Fabric_0006.jpg",
@@ -409,7 +427,7 @@
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
@@ -459,6 +477,9 @@
         "text_ULM8jQ",
         "button_amb6TU"
       ],
+      "custom_css": [
+        ".image-with-text__text--caption {margin-bottom: 10px;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/CleanShot_2023-07-17_at_00.06.02.webp",
@@ -467,7 +488,7 @@
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
@@ -517,6 +538,9 @@
         "text_TKT64M",
         "button_CnVcNc"
       ],
+      "custom_css": [
+        ".image-with-text__text--caption {margin-bottom: 10px;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Red-Stripe-Small-Ribbed-Close-Up-1_9968fd31-87d1-4594-b600-7c8375dc7ecf.jpg",
@@ -525,7 +549,7 @@
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
@@ -575,6 +599,9 @@
         "text_9GfyTf",
         "button_naKUDX"
       ],
+      "custom_css": [
+        ".image-with-text__text--caption {margin-bottom: 10px;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Wreath_Fabric_0020.jpg",
@@ -583,7 +610,7 @@
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
@@ -633,6 +660,9 @@
         "text_qeYWDW",
         "button_6Fitax"
       ],
+      "custom_css": [
+        ".image-with-text__text--caption {margin-bottom: 10px;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/ChristmasTrees_Fabric_0018.jpg",
@@ -641,7 +671,7 @@
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
@@ -691,6 +721,9 @@
         "text_jA3hKr",
         "button_yea6Gj"
       ],
+      "custom_css": [
+        ".image-with-text__text--caption {margin-bottom: 10px;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/12-Maroon-closeup.jpg",
@@ -699,7 +732,7 @@
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
@@ -749,6 +782,9 @@
         "text_wrgUCU",
         "button_k4NN6K"
       ],
+      "custom_css": [
+        ".image-with-text__text--caption {margin-bottom: 10px;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DeerTreeFarm_Fabric_0016.jpg",
@@ -757,7 +793,7 @@
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
@@ -807,6 +843,9 @@
         "text_qUytdA",
         "button_n8Gtkt"
       ],
+      "custom_css": [
+        ".image-with-text__text--caption {margin-bottom: 10px;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/newSnowy-Village-Close-Up.jpg",
@@ -815,7 +854,7 @@
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
@@ -865,6 +904,9 @@
         "text_t8epmQ",
         "button_daGjb3"
       ],
+      "custom_css": [
+        ".image-with-text__text--caption {margin-bottom: 10px;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Plaid_Fabric_0014.jpg",
@@ -873,7 +915,7 @@
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
@@ -923,6 +965,9 @@
         "text_YPC7FK",
         "button_qhbDha"
       ],
+      "custom_css": [
+        ".image-with-text__text--caption {margin-bottom: 10px;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/4IMG_1751-1-2.jpg",
@@ -931,7 +976,7 @@
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
@@ -981,6 +1026,9 @@
         "text_8ggKhp",
         "button_hD6V4N"
       ],
+      "custom_css": [
+        ".image-with-text__text--caption {margin-bottom: 10px;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/860711e32375c2021cdc21cecbbb7b14-1_57b78bf7-a7d4-4ac2-9b02-3deee29839a0.jpg",
@@ -989,7 +1037,7 @@
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
@@ -1039,6 +1087,9 @@
         "text_8fL7zy",
         "button_wmU9a6"
       ],
+      "custom_css": [
+        ".image-with-text__text--caption {margin-bottom: 10px;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/new-gingerbread-swatch_ea9da955-1284-4fbb-8c51-bc149623c9fd.jpg",
@@ -1047,7 +1098,7 @@
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
