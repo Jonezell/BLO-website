@@ -129,7 +129,6 @@
     },
     "custom_liquid_haApFx": {
       "type": "custom-liquid",
-      "disabled": true,
       "settings": {
         "custom_liquid": "<iframe src=\"https://bravelittleones.attn.tv/p/SfT/landing-page2\" style=\"min-height: 800px; border: none;\" width=\"100%\" height=\"100%\"></iframe>",
         "color_scheme": "",
