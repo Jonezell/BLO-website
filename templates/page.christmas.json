@@ -45,6 +45,7 @@
         "text_MUkNUc",
         "buttons_q7pKaT"
       ],
+      "disabled": true,
       "settings": {
         "layout-direction": "layout-left",
         "media-type": "video",
@@ -132,15 +133,15 @@
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
         "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     }
   },
   "order": [
     "main",
     "blo_banner_release_N9GXcU",
-    "custom_liquid_haApFx",
-    "image_with_text_hajQKV"
+    "image_with_text_hajQKV",
+    "custom_liquid_haApFx"
   ]
 }
