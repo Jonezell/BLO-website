@@ -1,4 +1,12 @@
-if (!customElements.get('product-form')) {
+
+
+
+
+// Debounce the add to cart button click
+const debouncedSubmit = debounce(function(event) {
+  // Original form submission logic
+
+  if (!customElements.get('product-form')) {
   customElements.define(
     'product-form',
     class ProductForm extends HTMLElement {
@@ -139,4 +147,12 @@ if (!customElements.get('product-form')) {
       }
     }
   );
-}
+};
+
+
+
+  this.handleFormSubmission(event);
+}, 300);
+
+// Apply to button
+submitButton.addEventListener('click', debouncedSubmit.bind(this));
