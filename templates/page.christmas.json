@@ -82,6 +82,14 @@
     "image_with_text_hajQKV": {
       "type": "image-with-text",
       "blocks": {
+        "caption_QAM7yH": {
+          "type": "caption",
+          "settings": {
+            "caption": "Releasing X Day",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
         "heading_HdmqaC": {
           "type": "heading",
           "settings": {
@@ -106,6 +114,7 @@
         }
       },
       "block_order": [
+        "caption_QAM7yH",
         "heading_HdmqaC",
         "text_xXHLJ8",
         "button_CfH6NU"
