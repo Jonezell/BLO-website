@@ -76,7 +76,7 @@
         "caption_QAM7yH": {
           "type": "caption",
           "settings": {
-            "caption": "Releasing X Day",
+            "caption": "Releasing September 24th",
             "text_style": "caption-with-letter-spacing",
             "text_size": "small"
           }
@@ -84,19 +84,20 @@
         "heading_HdmqaC": {
           "type": "heading",
           "settings": {
-            "heading": "Print name",
+            "heading": "Snowmen Small Ribbed",
             "heading_size": "h1"
           }
         },
         "text_xXHLJ8": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Style</li><li>Style</li></ul>",
+            "text": "<ul><li>Zip Romper</li><li>Two-piece Set <strong>(with 10-12Y and NEW 14-16Y)</strong></li><li>Toddler Blanket</li><li>Youth Blanket</li><li>Adult Blanket</li></ul>",
             "text_style": "body"
           }
         },
         "button_CfH6NU": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Shop Now",
             "button_link": "",
@@ -112,7 +113,935 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/bravelittleonesfw24-417_52f54930-f230-4fdc-9817-4f9ef0639a7d.jpg",
+        "image": "shopify://shop_images/Snowman_Fabric_0012.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_HxtGpc": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_RULKny": {
+          "type": "caption",
+          "settings": {
+            "caption": "Releasing September 24th",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "heading_FjrBFd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nativity Small Ribbed",
+            "heading_size": "h1"
+          }
+        },
+        "text_3dwRdf": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Bow</li><li>Zip Romper</li><li>Two-piece Set <strong>(with 10-12Y and NEW 14-16Y)</strong></li><li>Toddler Blanket</li><li>Youth Blanket</li><li>Adult Blanket</li><li>Women's Long Sleeve Top</li><li>Women's Pants</li><li>Men's Pants</li></ul>",
+            "text_style": "body"
+          }
+        },
+        "button_iMCzTw": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_RULKny",
+        "heading_FjrBFd",
+        "text_3dwRdf",
+        "button_iMCzTw"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Nativity_Fabric_0010.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_rwVjti": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_FXHxmc": {
+          "type": "caption",
+          "settings": {
+            "caption": "Releasing September 24th",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "heading_G3dinD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hot Cocoa Small Ribbed",
+            "heading_size": "h1"
+          }
+        },
+        "text_An3UAb": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Bow</li><li>Zip Romper</li><li>Two-piece Set <strong>(with 10-12Y and NEW 14-16Y)</strong></li><li>Toddler Blanket</li><li>Youth Blanket</li><li>Adult Blanket</li><li>Women's Long Sleeve Top</li><li>Women's Pants</li><li>Men's Pants</li></ul>",
+            "text_style": "body"
+          }
+        },
+        "button_y4qfjc": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_FXHxmc",
+        "heading_G3dinD",
+        "text_An3UAb",
+        "button_y4qfjc"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/HotCocoa_Fabric_0008.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_LU3gwa": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_Y6AND8": {
+          "type": "caption",
+          "settings": {
+            "caption": "Releasing October 1st",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "heading_iWdAaJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Red Christmas Trucks Small Ribbed",
+            "heading_size": "h1"
+          }
+        },
+        "text_qczwgE": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Zip Romper</li><li>Two-piece Set <strong>(with 10-12Y and NEW 14-16Y)</strong></li><li>Toddler Blanket</li><li>Youth Blanket</li><li>Adult Blanket</li><li>Boxer Brief 3-pack</li></ul>",
+            "text_style": "body"
+          }
+        },
+        "button_XFz67C": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_Y6AND8",
+        "heading_iWdAaJ",
+        "text_qczwgE",
+        "button_XFz67C"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/RedTruck_Fabric_0002.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_eJtFJC": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_G7RRTH": {
+          "type": "caption",
+          "settings": {
+            "caption": "Releasing October 1st",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "heading_M7mwxN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Santa's Workshop",
+            "heading_size": "h1"
+          }
+        },
+        "text_faTW9X": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Bow</li><li>Zip Romper</li><li>Two-piece Set <strong>(with 10-12Y and NEW 14-16Y)</strong></li><li>Toddler Blanket</li><li>Youth Blanket</li><li>Adult Blanket</li><li>Women's Long Sleeve Top</li><li>Women's Pants</li><li>Men's Pants</li></ul>",
+            "text_style": "body"
+          }
+        },
+        "button_zBemUm": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_G7RRTH",
+        "heading_M7mwxN",
+        "text_faTW9X",
+        "button_zBemUm"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/SantasWorkshop_Fabric_0004.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_4UpXqC": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_iH6BRe": {
+          "type": "caption",
+          "settings": {
+            "caption": "Releasing October 8th",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "heading_VheLFR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sugar Cookies Small Ribbed",
+            "heading_size": "h1"
+          }
+        },
+        "text_xcijkr": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Bow</li><li>Zip Romper</li><li>Two-piece Set <strong>(with 10-12Y and NEW 14-16Y)</strong></li><li>Toddler Blanket</li><li>Youth Blanket</li><li>Adult Blanket</li></ul>",
+            "text_style": "body"
+          }
+        },
+        "button_fhiWGx": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_iH6BRe",
+        "heading_VheLFR",
+        "text_xcijkr",
+        "button_fhiWGx"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/SugarCookies_Fabric_0006.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_phB3NW": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_q8pVhz": {
+          "type": "caption",
+          "settings": {
+            "caption": "Releasing October 8th",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "heading_J98yCk": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cookies and Milk",
+            "heading_size": "h1"
+          }
+        },
+        "text_ULM8jQ": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Bow</li><li>Zip Romper</li><li>Two-piece Set <strong>(with 10-12Y and NEW 14-16Y)</strong></li></ul>",
+            "text_style": "body"
+          }
+        },
+        "button_amb6TU": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_q8pVhz",
+        "heading_J98yCk",
+        "text_ULM8jQ",
+        "button_amb6TU"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/CleanShot_2023-07-17_at_00.06.02.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_XYf6k9": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_9QLacN": {
+          "type": "caption",
+          "settings": {
+            "caption": "Releasing October 8th",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "heading_XWWVhn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Red Stripe Small Ribbed",
+            "heading_size": "h1"
+          }
+        },
+        "text_TKT64M": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Bow</li><li>Zip Romper</li><li>Two-piece Set <strong>(with 10-12Y and NEW 14-16Y)</strong></li><li>Women' Long Sleeve Top</li><li>Women's Pants</li><li>Men's Pants</li></ul>",
+            "text_style": "body"
+          }
+        },
+        "button_CnVcNc": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_9QLacN",
+        "heading_XWWVhn",
+        "text_TKT64M",
+        "button_CnVcNc"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Red-Stripe-Small-Ribbed-Close-Up-1_9968fd31-87d1-4594-b600-7c8375dc7ecf.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_UydEDH": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_EzqxBY": {
+          "type": "caption",
+          "settings": {
+            "caption": "Releasing October 15th",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "heading_aaKDm6": {
+          "type": "heading",
+          "settings": {
+            "heading": "Christmas Wreaths Small Ribbed",
+            "heading_size": "h1"
+          }
+        },
+        "text_9GfyTf": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Bow</li><li>Zip Romper</li><li>Two-piece Set <strong>(with 10-12Y and NEW 14-16Y)</strong></li><li>Toddler Blanket</li><li>Youth Blanket</li><li>Adult Blanket</li><li>Women' Long Sleeve Top</li><li>Women's Pants</li></ul>",
+            "text_style": "body"
+          }
+        },
+        "button_naKUDX": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_EzqxBY",
+        "heading_aaKDm6",
+        "text_9GfyTf",
+        "button_naKUDX"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Wreath_Fabric_0020.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_mn8DJB": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_FceTbe": {
+          "type": "caption",
+          "settings": {
+            "caption": "Releasing October 15th",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "heading_UJyCjD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Christmas Trees Small Ribbed",
+            "heading_size": "h1"
+          }
+        },
+        "text_qeYWDW": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Bow</li><li>Zip Romper</li><li>Two-piece Set <strong>(with 10-12Y and NEW 14-16Y)</strong></li><li>Toddler Blanket</li><li>Youth Blanket</li><li>Adult Blanket</li><li>Women' Long Sleeve Top</li><li>Women's Pants</li><li>Men's Pants</li></ul>",
+            "text_style": "body"
+          }
+        },
+        "button_6Fitax": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_FceTbe",
+        "heading_UJyCjD",
+        "text_qeYWDW",
+        "button_6Fitax"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/ChristmasTrees_Fabric_0018.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_jpFqEX": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_xzz77c": {
+          "type": "caption",
+          "settings": {
+            "caption": "Releasing October 15th",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "heading_EJN4Ma": {
+          "type": "heading",
+          "settings": {
+            "heading": "Maroon Small Ribbed",
+            "heading_size": "h1"
+          }
+        },
+        "text_jA3hKr": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Zip Romper</li><li>Two-piece Set <strong>(with 10-12Y)</strong></li></ul>",
+            "text_style": "body"
+          }
+        },
+        "button_yea6Gj": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_xzz77c",
+        "heading_EJN4Ma",
+        "text_jA3hKr",
+        "button_yea6Gj"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/12-Maroon-closeup.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_Fg9yMz": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_cjqb3n": {
+          "type": "caption",
+          "settings": {
+            "caption": "Releasing October 22nd",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "heading_HtNcNj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reindeer Forest Small Ribbed",
+            "heading_size": "h1"
+          }
+        },
+        "text_wrgUCU": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Bow</li><li>Zip Romper</li><li>Two-piece Set <strong>(with 10-12Y and NEW 14-16Y)</strong></li><li>Toddler Blanket</li><li>Youth Blanket</li><li>Adult Blanket</li><li>Women' Long Sleeve Top</li><li>Women's Pants</li><li>Men's Pants</li></ul>",
+            "text_style": "body"
+          }
+        },
+        "button_k4NN6K": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_cjqb3n",
+        "heading_HtNcNj",
+        "text_wrgUCU",
+        "button_k4NN6K"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/DeerTreeFarm_Fabric_0016.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_pdJ4fq": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_pGMKmy": {
+          "type": "caption",
+          "settings": {
+            "caption": "Releasing October 22nd",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "heading_eKzHG7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Snowy Village Small Ribbed",
+            "heading_size": "h1"
+          }
+        },
+        "text_qUytdA": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Zip Romper</li><li>Two-piece Set <strong>(with 10-12Y and NEW 14-16Y)</strong></li></ul>",
+            "text_style": "body"
+          }
+        },
+        "button_n8Gtkt": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_pGMKmy",
+        "heading_eKzHG7",
+        "text_qUytdA",
+        "button_n8Gtkt"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/newSnowy-Village-Close-Up.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_wwLadN": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_6K3RfF": {
+          "type": "caption",
+          "settings": {
+            "caption": "Releasing October 29th",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "heading_4jjrVb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Double Plaid",
+            "heading_size": "h1"
+          }
+        },
+        "text_t8epmQ": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Bow</li><li>Zip Romper</li><li>Two-piece Set <strong>(with 10-12Y and NEW 14-16Y)</strong></li><li>Toddler Blanket</li><li>Youth Blanket</li><li>Adult Blanket</li><li>Women' Long Sleeve Top</li><li>Women's Pants</li><li>Men's Pants</li></ul>",
+            "text_style": "body"
+          }
+        },
+        "button_daGjb3": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_6K3RfF",
+        "heading_4jjrVb",
+        "text_t8epmQ",
+        "button_daGjb3"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Plaid_Fabric_0014.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_TNFVrC": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_UgzBfD": {
+          "type": "caption",
+          "settings": {
+            "caption": "Releasing October 29th",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "heading_jmyRCA": {
+          "type": "heading",
+          "settings": {
+            "heading": "Santa Small Ribbed",
+            "heading_size": "h1"
+          }
+        },
+        "text_YPC7FK": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Bow</li><li>Zip Romper</li><li>Two-piece Set <strong>(with 10-12Y and NEW 14-16Y)</strong></li><li>Women' Long Sleeve Top</li><li>Women's Pants</li><li>Men's Pants</li></ul>",
+            "text_style": "body"
+          }
+        },
+        "button_qhbDha": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_UgzBfD",
+        "heading_jmyRCA",
+        "text_YPC7FK",
+        "button_qhbDha"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/4IMG_1751-1-2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_BTamy3": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_7ihJjx": {
+          "type": "caption",
+          "settings": {
+            "caption": "Releasing November 5th",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "heading_JdJ9bq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Christmas Trains Small Ribbed",
+            "heading_size": "h1"
+          }
+        },
+        "text_8ggKhp": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Bow</li><li>Zip Romper</li><li>Two-piece Set <strong>(with 10-12Y and NEW 14-16Y)</strong></li><li>Toddler Blanket</li><li>Youth Blanket</li><li>Adult Blanket</li><li>Women' Long Sleeve Top</li><li>Women's Pants</li><li>Men's Pants</li></ul>",
+            "text_style": "body"
+          }
+        },
+        "button_hD6V4N": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_7ihJjx",
+        "heading_JdJ9bq",
+        "text_8ggKhp",
+        "button_hD6V4N"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/860711e32375c2021cdc21cecbbb7b14-1_57b78bf7-a7d4-4ac2-9b02-3deee29839a0.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_Yp7bLW": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_AixAXR": {
+          "type": "caption",
+          "settings": {
+            "caption": "Releasing November 5th",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "heading_xfXbE8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gingerbread Small Ribbed",
+            "heading_size": "h1"
+          }
+        },
+        "text_8fL7zy": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Bow</li><li>Zip Romper</li><li>Two-piece Set <strong>(with 10-12Y and NEW 14-16Y)</strong></li><li>Toddler Blanket</li><li>Youth Blanket</li><li>Adult Blanket</li><li>Women' Long Sleeve Top</li><li>Women's Pants</li><li>Men's Pants</li></ul>",
+            "text_style": "body"
+          }
+        },
+        "button_wmU9a6": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_AixAXR",
+        "heading_xfXbE8",
+        "text_8fL7zy",
+        "button_wmU9a6"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/new-gingerbread-swatch_ea9da955-1284-4fbb-8c51-bc149623c9fd.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -141,6 +1070,22 @@
     "main",
     "blo_banner_release_N9GXcU",
     "image_with_text_hajQKV",
+    "image_with_text_HxtGpc",
+    "image_with_text_rwVjti",
+    "image_with_text_LU3gwa",
+    "image_with_text_eJtFJC",
+    "image_with_text_4UpXqC",
+    "image_with_text_phB3NW",
+    "image_with_text_XYf6k9",
+    "image_with_text_UydEDH",
+    "image_with_text_mn8DJB",
+    "image_with_text_jpFqEX",
+    "image_with_text_Fg9yMz",
+    "image_with_text_pdJ4fq",
+    "image_with_text_wwLadN",
+    "image_with_text_TNFVrC",
+    "image_with_text_BTamy3",
+    "image_with_text_Yp7bLW",
     "custom_liquid_haApFx"
   ]
 }
