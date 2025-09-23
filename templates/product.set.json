@@ -147,9 +147,9 @@
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "gallery_layout": "thumbnail_slider",
+        "mobile_thumbnails": "show",
         "media_position": "left",
         "image_zoom": "hover",
-        "mobile_thumbnails": "show",
         "hide_variants": true,
         "enable_video_looping": true,
         "padding_top": 36,
@@ -180,6 +180,16 @@
     "blo_product_callouts_qHXD4R": {
       "type": "blo-product-callouts",
       "blocks": {
+        "callout_qXqKpA": {
+          "type": "Callout",
+          "settings": {
+            "pin_direction": "top_right",
+            "block_title": "Feature Name",
+            "block_text": "Feature Text",
+            "horizontal_position": 50,
+            "vertical_position": 50
+          }
+        },
         "callout_7fV3cD": {
           "type": "Callout",
           "settings": {
@@ -212,6 +222,7 @@
         }
       },
       "block_order": [
+        "callout_qXqKpA",
         "callout_7fV3cD",
         "callout_xmwwmL",
         "callout_BxjKGh"
@@ -358,13 +369,13 @@
         "heading_size": "h2",
         "products_to_show": 4,
         "columns_desktop": 4,
+        "columns_mobile": "1",
         "color_scheme": "scheme-1",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
-        "columns_mobile": "1",
         "padding_top": 100,
         "padding_bottom": 100
       }
