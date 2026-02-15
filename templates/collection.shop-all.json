@@ -45,7 +45,7 @@
           "type": "link",
           "settings": {
             "text": "Swimwear",
-            "linkurl": "shopify://collections/swim-trunks-rash-guards"
+            "linkurl": "shopify://collections/swimwear"
           }
         },
         "link_X6btXJ": {
@@ -103,6 +103,7 @@
       "settings": {
         "products_per_page": 36,
         "columns_desktop": 3,
+        "columns_mobile": "1",
         "color_scheme": "",
         "image_ratio": "adapt",
         "image_shape": "default",
@@ -113,7 +114,6 @@
         "enable_filtering": true,
         "filter_type": "vertical",
         "enable_sorting": true,
-        "columns_mobile": "1",
         "padding_top": 0,
         "padding_bottom": 100
       }
